@@ -1,0 +1,830 @@
+﻿{'citat': '"Den som vill lära sig befalla måste först ha lärt sig lyda."', 'citerad': 'Solon'}
+{'citat': '"Efter tårar blir synliga märken. Men om hjärtat blöder vem ser det?"', 'citerad': 'Hsueh Wen'}
+{'citat': '"Den som ruvar på hämnd håller sina sår öppna."', 'citerad': 'Francis Bacon'}
+{'citat': '"Det är inte det vi läser som gör oss lärda utan det vi kommer i håg"', 'citerad': 'Okänd'}
+{'citat': '"Vanans kedjor är för svaga för att upplevas innan dess de är för starka för att brytas."', 'citerad': 'Samuel Johnson'}
+{'citat': '"Sök inte felen, sök botemedlen."', 'citerad': 'Henry Ford'}
+{'citat': '"Historien upprepar sig, och varje gång kostar det mer."', 'citerad': 'Halldor Laxness'}
+{'citat': '"Det är inte på ansiktet man lär känna en man utan på masken."', 'citerad': 'Karen Blixen'}
+{'citat': '"Verklig kunskap är snarare ett sätt att vara än att kunna återge och reproducera något."', 'citerad': 'A. Maltén'}
+{'citat': '"Även en tusenmilafärd börjar med ett steg."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Tre år för att lära ett yrke, tre dar för att förfalla i slöhet."', 'citerad': 'Okänd'}
+{'citat': '"Du återvänder aldrig, en annan man finner en annan stad."', 'citerad': 'Dag Hammarskjöld'}
+{'citat': '"Bättre tända ett ljus än att förbanna mörkret."', 'citerad': 'Konfucius'}
+{'citat': '"Blott de tama fåglarna längtar. De vilda flyger."', 'citerad': 'Elmer Diktonius'}
+{'citat': '"Alla åsnor går inte på fyra ben."', 'citerad': 'Spanskt ordspråk'}
+{'citat': '"Ett liv i fattigdom behöver inte vara ett fattigt liv."', 'citerad': 'Arne Pedersen'}
+{'citat': '"Ett fel kan aldrig bli sant hur många gånger man än upprepar det. Sanningen kan aldrig vara fel, även om ingen hör den."', 'citerad': 'Mahatma Gandhi'}
+{'citat': '"En del människor ger sina bekymmer simlektioner istället för att dränka dem."', 'citerad': 'Mark Twain'}
+{'citat': '"Vanligt sunt förnuft är inte särskilt vanligt"', 'citerad': 'Voltaire'}
+{'citat': '"Tron på att det bara finns en enda sanning och att man själv skulle vara i besittning av den, är roten till allt ont i världen."', 'citerad': 'Max Born'}
+{'citat': '"Icke hur världen är, är mystiskt, utan att den är."', 'citerad': 'Ludwig Wittgenstein'}
+{'citat': '"Du kan nästan bedöma vikten av en upptäckt genom de ansträngningar som görs för att förtränga den."', 'citerad': 'William S. Burroughs'}
+{'citat': '"Människor kan indelas i två grupper, en som går före och uträttar något och en som kommer efter och kritiserar"', 'citerad': 'Seneca'}
+{'citat': '"Det är naturligt att dumbommarna är i majoritet i riksdagen: de är i majoritet i folket."', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Framtiden tillhör dom som inte ser tillbaka."', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"Du kommer att ha tid nog att vila när du är död."', 'citerad': 'Kushida Sensei'}
+{'citat': '"Borrare formar brunnar, bågmakare formar pilar, snickare formar trä och den vise formar sig själv."', 'citerad': 'Buddha'}
+{'citat': '"Människor kan man klara sig utan, men vänner behöver man."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Kroppen kan förstöras, men en vänlig handlings följd kan bestå."', 'citerad': 'Buddha'}
+{'citat': '"Den vise leds av vad han känner och inte av vad han ser."', 'citerad': 'Lao Tzu'}
+{'citat': '"Gyllene äpplen i silverskålar äro ord som talas i rätt tid."', 'citerad': 'Ordspråksboken'}
+{'citat': '"Rädd för döden? Jag var död innan jag föddes."', 'citerad': 'Lichtenberg'}
+{'citat': '"Tro inte att du är så stor att andra ter sig små."', 'citerad': 'Konfucius'}
+{'citat': '"Bästa sättet att få ett arbete att verka svårt är att skjuta upp det."', 'citerad': 'Winston Churchill'}
+{'citat': '"Förgängligt är allt som är sammansatt."', 'citerad': 'Buddha'}
+{'citat': '"Om du står rakryggad, så låt det inte bekymra dig om din skugga slingrar sig."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Lär känna modern innan du gifter dig med dottern."', 'citerad': 'Okänd'}
+{'citat': '"Förbjuden väg är ofta hårt sliten"', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"De som inte kan minnas sitt förflutna är dömda att upprepa det."', 'citerad': 'George Santayana'}
+{'citat': '"Det är så roligt att leva för då får en si hur det går"', 'citerad': 'Johan A G Acke'}
+{'citat': '"Det är inte monumenten som lär oss historia, det är ruinerna"', 'citerad': 'Carl Hammaré'}
+{'citat': '"Erfarenheten är en god lärare, men hon skickar förskräckliga räkningar."', 'citerad': 'Minna Antrin'}
+{'citat': '"När det blir mörkt nog, kan du se stjärnorna."', 'citerad': 'Charles A. Beard'}
+{'citat': '"Askan kan inte betrakta vedträdet, vedträdet kan inte betrakta askan."', 'citerad': 'Dogen'}
+{'citat': '"Vårat sinne är förmöget att gå förbi gränsen vi dragit för det."', 'citerad': 'Herman Hesse'}
+{'citat': '"Den ormbitne är rädd även för skuggan av ett rep."', 'citerad': 'Okänd'}
+{'citat': '"Att glädjas över en seger är samma sak som att glädjas över dödandet av människor."', 'citerad': 'Lao Tzu'}
+{'citat': '"Vad som nu är bevisat var än gång bara fantiserat."', 'citerad': 'William Blake'}
+{'citat': '"Vem skulle vilja leva, min son, om han kände framtiden."', 'citerad': 'Jacques Henri Bernardin de Saint-Pierre'}
+{'citat': '"Att rätta sig efter andras råd, är att göra sig kläder efter andras mått."', 'citerad': 'Johan Henric Kellgren'}
+{'citat': '"Lycka? Å, det är mycket enkelt! Det är bara god hälsa och dåligt minne!"', 'citerad': 'Ernest Hemingway'}
+{'citat': '"Bland människor finns det långt fler kopior än original."', 'citerad': 'Pablo Picasso'}
+{'citat': '"Problemet är att om man inte riskerar någonting riskerar man ännu mer."', 'citerad': 'Erica Jong'}
+{'citat': '"Om du inte kan övertyga dem, förvirra dem"', 'citerad': 'Harry S Truman'}
+{'citat': '"Förbjuden väg är ofta hårt sliten"', 'citerad': 'Okänd'}
+{'citat': '"Ju mer du försöker, desto svårare."', 'citerad': 'Richard Bandler'}
+{'citat': '"För att flyga fort som tanken, vart som helst, måste du börja med att veta att du redan kommit fram."', 'citerad': 'Richard Bach'}
+{'citat': '"Vad som är värt att göra är värt att göra väl."', 'citerad': 'Earl of Chesterfield'}
+{'citat': '"Genom att acceptera verkligheten vinner du kraft."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Framgång ger vänner, motgång prövar dem."', 'citerad': 'Publicus Cyrus'}
+{'citat': '"Om du tror att du vet allt är du dåligt underrättad."', 'citerad': 'Okänd'}
+{'citat': '"Handla inte mot andra som du skulle vilja att de handlade mot dig. Ni kanske inte har samma smak."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Demokrati övergår i förtryck."', 'citerad': 'Platon'}
+{'citat': '"En ledare är en människa som har förmågan att få andra att göra vad de inte vill och tycka om det"', 'citerad': 'Harry S Truman'}
+{'citat': '"Det gäller inte att hitta en flicka man har lust att gå till sängs med. Det gäller att hitta en som man har lust att stiga upp med."', 'citerad': 'Jens Locher'}
+{'citat': '"Den nyttigaste läxa livet har lärt mig är att idioterna många gånger har rätt."', 'citerad': 'Winston Churchill'}
+{'citat': '"Jag har alltid en barndom som är min fantasis sminkloge där jag alltid kan gräva guld."', 'citerad': 'Ernest Hugo Järregård'}
+{'citat': '"De som behärskar sin längtan gör så för att deras är vek nog att behärska."', 'citerad': 'William Blake'}
+{'citat': '"Det är stoltare våga sitt tärningskast, än tyna med slocknande låge. Det är skönare lyss till en sträng, som brast, än att aldrig spänna en båge."', 'citerad': 'Verner von Heidenstam'}
+{'citat': '"Allt är sinne."', 'citerad': 'Padmasambhava'}
+{'citat': '"Vi ser inte saker som de är, vi ser saker som vi är."', 'citerad': 'Anais Nin'}
+{'citat': '"Om du tänker för länge på nästa steg, kommer du att tillbringa ditt liv stående på ett ben."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Det samlas inte damm på den som är ute i blåsväder."', 'citerad': 'Magnus von Platen'}
+{'citat': '"Alla generaliseringar är farliga, även den här."', 'citerad': 'Alexandre Dumas fils.'}
+{'citat': '"En lat människa är för alltid en invalid."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Vi måste dansa innan pesten bryter ut."', 'citerad': 'August Strindberg'}
+{'citat': '"Frågor som avgörs med våld är aldrig uppgjorda."', 'citerad': 'James Joyce'}
+{'citat': '"Det är bättre att ha älskat och förlorat, än att aldrig ha älskat någon gång."', 'citerad': 'Lord Alfred Tennyson'}
+{'citat': '"Man kan aldrig nöja sig med att krypa när ens drift är att flyga."', 'citerad': 'Helen Keller'}
+{'citat': '"Om dina svårigheter kan övervinnas, varför bekymra dig? Om de inte kan övervinnas, varför bekymra dig?"', 'citerad': 'Spanskt ordspråk'}
+{'citat': '"Användandet av kraft följs av förlorad styrka."', 'citerad': 'Lao Tzu'}
+{'citat': '"Den som vet mycket om andra kan vara lärd, men den som förstår sig på sig själv är klokare. Den som styr andra kan vara mäktig, men den som förmår styra sig själv är ännu mäktigare."', 'citerad': 'Lao Tzu'}
+{'citat': '"Jag är inte nedslagen, för varje felaktigt försök övergett är ännu ett steg framåt."', 'citerad': 'Thomas Alva Edison'}
+{'citat': '"Med lögner kan du kanske ta dig fram i livet, men du kan aldrig vända åter."', 'citerad': 'Ryskt ordspråk'}
+{'citat': '"Överdrifternas väg leder till visdomens palats."', 'citerad': 'William Blake'}
+{'citat': '"All förändring är inte växt, all rörelse inte framåt."', 'citerad': 'Ellen Glasgow'}
+{'citat': '"Alla människor klagar över sitt dåliga minne, ingen klagar över sitt förstånd"', 'citerad': 'F de la Rochefoucauld'}
+{'citat': '"Det som inte tål att skämtas med förtjänas sällan att tas på allvar."', 'citerad': 'Sigfrid Lindström'}
+{'citat': '"Att livet är värt att leva är den mest nödvändiga av alla slutsatser, och drogs inte den slutsatsen vore det den mest omöjliga av alla slutsatser."', 'citerad': 'George Santayana'}
+{'citat': '"Att kritisera sig själv är bättre än att kritisera andra."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"När en kvinna tiger är det alltid för att hon vill säga något."', 'citerad': 'Elinor Glyn'}
+{'citat': '"Framtiden har redan börjat."', 'citerad': 'Robert Jungk'}
+{'citat': '"Det högsta är ej att aldrig falla utan att resa sig efter varje fall."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Den bäste soldaten är inte den som anfaller. Den överlägsne kämpen når framgång utan våld. Den störste erövraren segrar utan kamp. Den mest framgångsrike anföraren leder utan att befalla."', 'citerad': 'Lao Tzu'}
+{'citat': '"Politisk skicklighet är att förutsäga vad som kommer att hända imorgon, nästa vecka, nästa månad och nästa år. Och efteråt förklara varför det inte inträffade."', 'citerad': 'Winston Churchill'}
+{'citat': '"Vi ligger alla i rännstenen, men somliga av oss tittar på stjärnorna."', 'citerad': 'Oscar Wilde'}
+{'citat': '"Lyckan är ingenting annat än god hälsa i förening med dåligt minne."', 'citerad': 'Albert Schweitzer'}
+{'citat': '"En normal sanning varar högst tjugo år."', 'citerad': 'Henrik Ibsen'}
+{'citat': '"De dårskaper som en man ångrar mest i livet är dem han inte begick när han hade tillfälle."', 'citerad': 'Helen Rowland'}
+{'citat': '"Var inte bara god, var god för något."', 'citerad': 'Henry David Thoreau'}
+{'citat': '"Vägen ut går genom dörren. Hur kommer det sig att ingen använder denna metod?"', 'citerad': 'Konfucius'}
+{'citat': '"Vi vill gärna vara oss själva men också som alla andra, lustigt nog lyckas vi bäst med det senare."', 'citerad': 'John Karlzén'}
+{'citat': '"En skicklig skräddare klipper lite."', 'citerad': 'Lao Tzu'}
+{'citat': '"Att vara uppriktig trots att det kan såra kan ibland rädda en tynande vänskap."', 'citerad': 'Sydney Smith'}
+{'citat': '"Älska mig mest när jag förtjänar det minst för då behöver jag det bäst."', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"Hur mycket vore möjligt om ingen försökte det omöjliga?"', 'citerad': 'Arne Hirdman'}
+{'citat': '"Målen är valda av apan, det är bara medlen som är människans."', 'citerad': 'Aldous Huxley'}
+{'citat': '"Många skulle komma till himlen med hälften av det besvär med vilket de tar sig till helvetet."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Optimisten påstår att vi lever i den bästa av världar och pessimisten fruktar att det är sant."', 'citerad': 'J. B. Cabell'}
+{'citat': '"De kloka talar för att de har något att säga. Idioterna talar för att de måste säga något."', 'citerad': 'Platon'}
+{'citat': '"Endast den sinnesfrid du finner mitt under en kamp är äkta sinnesfrid."', 'citerad': 'Saikontan'}
+{'citat': '"Livet är som en avloppsledning. Vad du får ut av det beror på vad du stoppar in."', 'citerad': 'Tom Lehrer'}
+{'citat': '"När föräldrar har lite tid för sina barn, kommer ett stort tomrum utvecklas och någon form av ideologi kommer att ta över."', 'citerad': 'Billy Graham'}
+{'citat': '"Det kommer sist och slutligen inte an på vad vi tänker - utan på vad vi lever."', 'citerad': 'Bjørnstjerne Bjørnson'}
+{'citat': '"Att alltid vara en smula barn det är att vara verkligt vuxen."', 'citerad': 'Jevtusjenko'}
+{'citat': '"Det största förstoringsglaset i världen är en människas ögon då de betraktar den egna personen."', 'citerad': 'Alexander Pope'}
+{'citat': '"Människor är rädda för vad de inte förstår."', 'citerad': 'Bruce Lee'}
+{'citat': '"Upplysning är ditt egos största besvikelse. Sinnet är som en fallskärm. Båda fungerar bara om de är öppna."', 'citerad': 'Frank Zappa'}
+{'citat': '"Det finns människor som bara har sin fasad. Entrén för tanken till ett palats, men den leder till en koja."', 'citerad': 'Baltasar Gracián y Morales'}
+{'citat': '"Låt människor tro att de styr och de kommer att låta sig styras."', 'citerad': 'William Penn'}
+{'citat': '"Vi kan bli kunniga med andra människors kunskap, men vi kan inte bli visa av andra mäns visdom."', 'citerad': 'Michel de Montaigne'}
+{'citat': '"Det finns två mål här i livet: det första är att få det vi önskar oss, det andra är att kunna njuta av det."', 'citerad': 'Logan Pearsall Smith'}
+{'citat': '"Problemet med en del kvinnor är att de blir alldeles till sig över ingenting - och sedan gifter de sig med honom."', 'citerad': 'Cher'}
+{'citat': '"Man måste vara på det klara med att om fyradagarsvecka införs blir vi lurade på en lunchrast och två kafferaster"', 'citerad': 'Okänd fackföreningsman'}
+{'citat': '"I stilla väder är alla skickliga sjömän."', 'citerad': 'Margaret Riis'}
+{'citat': '"Jag tror jag har funnit den felande länken mellan djuret och den civiliserade människan. Det är vi."', 'citerad': 'Konrad Lorenz'}
+{'citat': '"Många drömmer om ett evigt liv fast de inte vet vad de ska ta sig till en regning söndagseftermiddag."', 'citerad': 'Susan Ertz'}
+{'citat': '"Visst påverkar rökningen utseendet, titta bara på böcklingen"', 'citerad': 'Okänd'}
+{'citat': '"Det nyttar inte att vandra någonstans för att predika om inte vandringen är vår predikan."', 'citerad': 'Franciscus av Assisi'}
+{'citat': '"Folk kommer att komma ihåg hur dåligt arbetet var utfört långt efter det att man glömt hur fort det gick."', 'citerad': 'Roger L. Cason'}
+{'citat': '"Den som har planterat trädet får sällan smaka frukten."', 'citerad': 'Okänd'}
+{'citat': '"Skönhet är ej i ansiktet; skönhet är ett ljus i hjärtat."', 'citerad': 'Kahlil Gibran'}
+{'citat': '"Gör vad du kan, med det du har tillhands, varhelst du befinner dig."', 'citerad': 'Theodore Roosevelt'}
+{'citat': '"Jag vill att du skall lära dig, inte låta dig läras."', 'citerad': 'Moshe Feldenkrais'}
+{'citat': '"För att kunna ha ett krig måste fienden hållas vid liv."', 'citerad': 'Terry Dobson'}
+{'citat': '"Människan är inte summan av vad hon har utan summan av vad hon ännu inte har, av vad hon skulle kunna få."', 'citerad': 'Jean'}
+{'citat': '"Små saker du fått gjorda är bättre än stora saker du planerar att göra."', 'citerad': 'George C. Marchall'}
+{'citat': '"Det sura äpplet blir bara surare..."', 'citerad': 'Anders'}
+{'citat': '"Allting har tänkts på förut, men problemet är att tänka på det igen."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Homo sapiens... en liten kvist på en osannolik gren på en utskjutande del av ett lyckligt lottat träd."', 'citerad': 'Stephen Jay Gould'}
+{'citat': '"Det finns saker man måste vara fackman för att inte förstå."', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Den mest framgångsrike politikern är den som oftast och mest högljutt säger det som alla tänker."', 'citerad': 'Theodore Roosevelt'}
+{'citat': '"Pengar är den fattiges kreditkort"', 'citerad': 'Marshall McLuhan'}
+{'citat': '"Den som är herre över sina passioner är slav under sitt förnuft."', 'citerad': 'Cyril Connolly'}
+{'citat': '"Det bästa man kan spara till man blir gammal är sig själv."', 'citerad': 'Salon Gahlin'}
+{'citat': '"Där passionens fontäner ligger djupt, blir himlens källor snart torra."', 'citerad': 'Zhuang Zi'}
+{'citat': '"Om du är tveksam om en handling är bra eller dålig, avstå från den."', 'citerad': 'Zarathustra'}
+{'citat': '"Förr i tiden gifte man sig när man lärt känna varann, idag skiljer man sig i stället"', 'citerad': 'Okänd'}
+{'citat': '"Gör vad du vill, men uteslut aldrig någon ur ditt hjärta."', 'citerad': 'Neem Karoli Baba'}
+{'citat': '"Livet är märkvärdigt: om man vägrar att godta annat än det bästa, så händer det att man får det."', 'citerad': 'W. Somerset Maugham'}
+{'citat': '"Var inte så säker att dina ögon ser vad mina gör."', 'citerad': 'August Strindberg'}
+{'citat': '"Man älskar icke tillräckligt om man icke älskar för mycket."', 'citerad': 'L. Du Peschier'}
+{'citat': '"Hela världen älskar den ödmjuke och föraktar den högfärdige."', 'citerad': 'Konfucius'}
+{'citat': '"Den som inte kan ett främmande språk känner inte sitt eget."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Tiden slösar aldrig bort människan; det är människan som slösar bort tiden."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Det är svårt att finna lyckan inom sig, och omöjligt någon annanstans"', 'citerad': 'Chamfort'}
+{'citat': '"Varje handlings fader är en tanke."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Den som inte kan se bakåt och inte vågar se framåt, måste se upp."', 'citerad': 'Henrik Tikkanen'}
+{'citat': '"Det är de galna människorna som får jorden att gå runt."', 'citerad': 'William Shakespeare'}
+{'citat': '"Livet är bara en förbannad sak efter en annan."', 'citerad': 'Mark Twain'}
+{'citat': '"Bryt upp, bryt upp! Den nya dagen gryr. Oändligt är vårt stora äventyr."', 'citerad': 'Karin Boye'}
+{'citat': '"Om du har två bröd, sälj det ena och köp rosor."', 'citerad': 'Rabindranath Tagore'}
+{'citat': '"Stora män känner sig alltid små. Små män känner sig alltid stora."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Erfarenhet det är vad folk kallar sina misstag."', 'citerad': 'Oscar Wilde'}
+{'citat': '"De som önskar ge upp sin frihet för att finna trygghet kommer inte, och förtjänar inte, någondera."', 'citerad': 'Thomas Jefferson'}
+{'citat': '"En dam är en kvinna vars närvaro medför att männen uppför sig som herrar."', 'citerad': 'Tyskt ordspråk'}
+{'citat': '"Igår smidde jag tusen planer, i morse gjorde jag som vanligt."', 'citerad': 'Okänd'}
+{'citat': '"Viktigare än att söka meningen med livet är kanske ändå att söka livet som sådant."', 'citerad': 'Fjodor Dostojevskij'}
+{'citat': '"Det är inte sanningen som gör människan stor utan människan som gör sanningen stor."', 'citerad': 'Konfucius'}
+{'citat': '"De som säger att det inte kan göras, skall inte hindra de som gör det."', 'citerad': 'Den Romerska lagen'}
+{'citat': '"Pengar är inte allt här i världen, men de hjälper en onekligen att hålla kontakten med sina barn"', 'citerad': 'B. Crosby'}
+{'citat': '"En vän är en person du älskar och som du inte försöker ändra på."', 'citerad': 'Milton H. Erickson'}
+{'citat': '"Glädje från infriad längtan är endast lidande i förklädnad."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Det är en dålig plan som inte tillåter någon förändring."', 'citerad': 'Publilius Syrus'}
+{'citat': '"Näst värst ett förlorat slag är ett vunnet."', 'citerad': 'Hertigen av Wellington'}
+{'citat': '"Kärleken är det enda som blir större när man slösar med det."', 'citerad': 'Richarda Huch'}
+{'citat': '"En vän som måste köpas är aldrig värd priset."', 'citerad': 'G. D. Prentice'}
+{'citat': '"Frihet är vad du gör med det som gjorts med dig."', 'citerad': 'Jean'}
+{'citat': '"Med båda fötterna på jorden kommer man inte långt."', 'citerad': 'Loesje'}
+{'citat': '"Regeringar kommer alltid att missbruka lagen i den utsträckning som den allmänna opinionen tillåter."', 'citerad': 'Emile Capouya'}
+{'citat': '"Var inte rädd för att livet skall ta slut, var rädd för att det aldrig skall börja."', 'citerad': 'Grace Hansen'}
+{'citat': '"Lyft ansiktet mot solen då ser du inte skuggorna."', 'citerad': 'Helen Keller'}
+{'citat': '"Åh, vad världen är vacker låt den vara!"', 'citerad': 'Tage Danielsson'}
+{'citat': '"Din värld är som den är för att du intalar dig att den är på det viset."', 'citerad': 'Carlos Castaneda, (citerande Don Juan, Yaqui kriga'}
+{'citat': '"Det ända sättet att upptäcka gränserna för det möjliga är att gå en liten bit förbi dem in i det omöjliga."', 'citerad': 'Arthur C. Clarke'}
+{'citat': '"Enda räddningen för slagna är den att inte hoppas på räddning."', 'citerad': 'Latinskt ordspråk'}
+{'citat': '"Att leva är inte nog. Solsken, frihet och en liten blomma måste man ha."', 'citerad': 'Hans Christian Andersen'}
+{'citat': '"Rätt använt är livet långt nog."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Den som lider innan det är nödvändigt, lider mer än nödvändigt."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"När valet är mellan upp och ner, gå ner."', 'citerad': 'Rama Krishna'}
+{'citat': '"Den man som inte har någon fantasi saknar vingar."', 'citerad': 'Muhammad Ali'}
+{'citat': '"Det är aldrig för sent att ha en lycklig barndom."', 'citerad': 'Tom Robbins'}
+{'citat': '"Många som skyndat före sin tid tvingas invänta den på obekväma tillflyktsorter."', 'citerad': 'Stanislaw Jerzy Lec'}
+{'citat': '"Den som griper till våld visar att hans argument är slut. "', 'citerad': 'Okänd'}
+{'citat': '"Människan har en fri vilja vare sig hon vill eller inte."', 'citerad': 'Loesje'}
+{'citat': '"Ju mer man vågar ge uttryck för, desto större blir möjligheterna att våga leva."', 'citerad': 'Märta Tikkanen'}
+{'citat': '"Ju större lögnen är desto fler tror på den."', 'citerad': 'Adolf Hitler'}
+{'citat': '"Den som tror sig kunna undvara andra bedrar sig mycket, men den som tror att andra inte kan undvara honom, bedrar sig ännu mer."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"Oroa dig inte för att ingen känner dig; försök att vara någon värd att känna."', 'citerad': 'Konfucius'}
+{'citat': '"Det finns mycket i livet som inte kan förstås, men livets huvudsakliga mål är: att tänka rätt, handla rätt och leva rätt."', 'citerad': 'Mahatma Gandhi'}
+{'citat': '"Vill du hellre ha rätt än vara lycklig?"', 'citerad': 'Jerry Jampolsky'}
+{'citat': '"Om du hatar någon, så hatar du något i honom som är en del av dig själv. Det som inte är en del av oss stör oss inte."', 'citerad': 'Herman Hesse'}
+{'citat': '"Vad vi anser vara sant är antingen sant eller blir sant genom våra erfarenheter."', 'citerad': 'John Lilly'}
+{'citat': '"Vad jag inte vet tror jag ej att jag vet."', 'citerad': 'Platon'}
+{'citat': '"Den största sjukdomen är brist på kärlek."', 'citerad': 'Mother Tehresa'}
+{'citat': '"Rätt mycket av allt sanningstalande görs av barn."', 'citerad': 'Oliver Wendell Holmes'}
+{'citat': '"Gör vad du fruktar och din fruktan kommer att dö."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Våra kroppar är våra trädgårdar... våra viljor trädgårdsmästare."', 'citerad': 'William Shakespeare'}
+{'citat': '"Om en man inte har hittat något han är villig att dö för, är han inte värdig att leva."', 'citerad': 'Martin Luther King Jr.'}
+{'citat': '"Det är lättare att skriva poesi än att förstå den."', 'citerad': 'Michel de Montaigne'}
+{'citat': '"Undervisa människor, men låt undervisandet vara dolt; lyft fram ny kunskap som något de hade glömt."', 'citerad': 'Alexander Pope'}
+{'citat': '"Bildning är en bra sak, men man bör komma ihåg emellanåt att ingenting som är värt att veta kan läras ut."', 'citerad': 'Oscar Wilde'}
+{'citat': '"All bedrövelse har sin rot i människans oförmåga att sitta tyst i ett rum för sig själv."', 'citerad': 'Blaise Pascal'}
+{'citat': '"Den som vill bli lycklig skall inte lägga an på att öka sina tillgångar utan på att begränsa sina krav."', 'citerad': 'Platon'}
+{'citat': '"Om du ser det lilla på samma sätt som det ser sig, och accepterar det svaga för den styrka det har, och nyttjar det dunkla för det ljus det avger, då går allt väl. Detta kallas att handla naturligt."', 'citerad': 'Lao Tzu'}
+{'citat': '"Hur skall man veta att blodet är rött om man aldrig öppnar ett sår?"', 'citerad': 'Stefan Livstedt'}
+{'citat': '"Man vet aldrig vad man kan reda sig utan förrän man har försökt."', 'citerad': 'F.P. Adams'}
+{'citat': '"Det finns alltid en horisont längre bort."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Pengar gör ingen lycklig men jag gråter hellre i en Jaguar än i en buss"', 'citerad': 'Francoise Sagan'}
+{'citat': '"Man will give anything to fulfill his basic needs. Once fulfilled, he will give nothing."', 'citerad': 'Peter'}
+{'citat': '"Vi lär av historien att vi ingenting lär av historien."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Det är bättre att vara utan en lärare än att ha en dålig lärare."', 'citerad': 'Lord Yehudi Menuhin'}
+{'citat': '"Den många brunnar gräver får inte gott vatten i alla."', 'citerad': 'Okänd'}
+{'citat': '"För en modig man är inget omöjligt."', 'citerad': 'Tesshu Yamaoka'}
+{'citat': '"Det är helt naturligt att dumbommarna är i majoritet i riksdagen, de är i majoritet i folket"', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Jag vill hellre vara fattig i en stuga full med böcker än en kung utan lust att läsa."', 'citerad': 'Thomas Macaulay'}
+{'citat': '"När man köper ett hus för första gången tänker man bara på om färgen är snygg och köper det i så fall. Andra gången kontrollerar man om det finns termiter i källaren. Likadant är det med karlar."', 'citerad': 'Lupe Velez'}
+{'citat': '"Vi är alltid tillräckligt starka för att bära andras olyckor."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"Barn och vuxen, vis och dåre, alla är de döden undergivna; det är vad de har gemensamt."', 'citerad': 'Buddha'}
+{'citat': '"Det är inte så stor ansträngning att göra en sak, men det kräver en hel del att besluta vad man ska göra."', 'citerad': 'E. Hubbard'}
+{'citat': '"En miljard, två miljarder, det är ingen skillnad. det tar lika stor plats i huvudet"', 'citerad': 'Reefat El-Sayded'}
+{'citat': '"Vad du än kan göra, eller drömmer att du kan göra, påbörja det. Mod har genialitet, kraft och magi i sig."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Ty sådana fålar finna livet svårt, som inte tåla sporre eller piska. Vid varje smärta, som övergår dem, skena de åstad på vilda vägar mot gapande avgrunder."', 'citerad': 'Selma Lagerlöf'}
+{'citat': '"Vad du verkligen lärt dig bäst kommer senare att framstå som din egen upptäckt."', 'citerad': 'Moshe Feldenkrais'}
+{'citat': '"Våra tvivel är förrädare. De berövar oss det goda vi ofta kunnat vinna men inte vågat."', 'citerad': 'William Shakespeare'}
+{'citat': '"Det är alltid det omöjliga som inträffar."', 'citerad': 'Franskt ordspråk'}
+{'citat': '"När alla är skyldiga skall ingen spela domare."', 'citerad': 'Lewis Caroll'}
+{'citat': '"Hat är den feges hämnd för att ha blivit skrämd."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Du gör fel när du bedömer en sak som du inte fullt förstår, men värre när du klandrar den."', 'citerad': 'Leonardo Buonarroti da Vinci'}
+{'citat': '"Alla är ansvariga för allt som sker på jorden."', 'citerad': 'Fjodor Dostojevskij'}
+{'citat': '"Fager mö bär hemgiften i ansiktet."', 'citerad': 'Okänd'}
+{'citat': '"Frågan är all kunskaps början."', 'citerad': 'Theaiteas'}
+{'citat': '"Du vet inte vad som är tillräckligt innan du vet vad som är mer än tillräckligt."', 'citerad': 'William Blake'}
+{'citat': '"Hjärtat har sina fängelser som förståndet inte kan öppna."', 'citerad': 'Marcel Jouhandeau'}
+{'citat': '"Livet är en tragedi när man ser det i närbild, men en komedi sett på håll."', 'citerad': 'Charlie Chaplin'}
+{'citat': '"I öknen har pärlor inget värde"', 'citerad': 'Indiskt ordspråk'}
+{'citat': '"Var och en av oss lämnar vårat märke i historien."', 'citerad': 'M. Scott Peck'}
+{'citat': '"Kartan är inte terrängen."', 'citerad': 'Alfred Korzybski'}
+{'citat': '"Raka träd fälls först, friska brunnar öses först torra. "', 'citerad': 'Okänd'}
+{'citat': '"Vill du veta något om vägen framför dig, fråga den du möter."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Om man inte förväntar sig det, kommer man inte att finna det oväntade; det går inte att finna och ingen väg leder oss till det."', 'citerad': 'Herakleitos'}
+{'citat': '"En del människor byter parti för sin övertygelses skull. Andra byter övertygelse för sitt partis skull."', 'citerad': 'Winston Churchill'}
+{'citat': '"Det värsta av allt: påtvingade nöjen. Det bästa av allt: självvalt arbete."', 'citerad': 'Olle Holmberg'}
+{'citat': '"Genom att undervisa andra upptäcker vi hur lite vi egentligen vet."', 'citerad': 'Yukiso Yamamoto sensei'}
+{'citat': '"Människan är född till att leva och inte till att förbereda för att leva."', 'citerad': 'Boris Pasternak'}
+{'citat': '"Han drack aldrig, rökte aldrig och cyklade aldrig. Levde enkelt, sparade sina pengar och dog en tidig död, omgiven av snikna släktingar. Det var en nyttig läxa för mig."', 'citerad': 'John Barrymore'}
+{'citat': '"Ett bekvämt sätt att ljuga är att tiga om sanningen."', 'citerad': 'Alexander Weiss'}
+{'citat': '"Det som är svårast i världen att förstå är inkomstskatten"', 'citerad': 'Albert Einstein'}
+{'citat': '"Jag fryser om dina händer, när du ler blir jag varm av dig."', 'citerad': 'Bo Bergman'}
+{'citat': '"Om människor visste hur nyttig konjak är skulle de supa ihjäl sig"', 'citerad': 'Professor PH Malmsten'}
+{'citat': '"Många kloka ord sägs på skämt men det är inget mot de dumheter som sägs på fullt allvar"', 'citerad': 'Okänd'}
+{'citat': '"Inte misslyckanden, men att sikta lågt är ett brott."', 'citerad': 'James Russel Lowell'}
+{'citat': '"Aldrig går effekten av en handling förlorad."', 'citerad': 'Buddha'}
+{'citat': '"Dra dig ej till minnes tjänster du gjort andra men väl välgärningar som bevisats dig själv."', 'citerad': 'Okänd'}
+{'citat': '"Vi är inte fattiga för att vi äger litet utan för att vi saknar mycket."', 'citerad': 'Alf Henrikson'}
+{'citat': '"Utveckla dig själv innan du utvecklar andra."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Retar du upp dig på ting som är små, så är du väl inte större än så."', 'citerad': 'Alf Henrikson'}
+{'citat': '"Lycka är en illusion; endast lidande är verkligt."', 'citerad': 'Voltaire'}
+{'citat': '"Vi erkänner våra små fel för att övertyga oss om att vi inte har några stora."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"Ett gott omdöme beror på erfarenhet, och erfarenhet den får man på grund av dåligt omdöme."', 'citerad': 'B. Le Pater'}
+{'citat': '"Att förlora ägodelar är inget mot att förlora tid och moral."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Man blir inte fattig av det man ger åt den fattige."', 'citerad': 'Okänd'}
+{'citat': '"Det verkliga sättet att spilla tid är att räkna timmarna."', 'citerad': 'Francois Rabelais'}
+{'citat': '"Alla vägar för dig vilse."', 'citerad': 'Lonely Planet'}
+{'citat': '"Man må säga vad man vill om ett syndigt leverne- men det är allmänbildande"', 'citerad': 'Hjalmar Bergman'}
+{'citat': '"Att sörja förlusten över någon vi älskar är lycka jämfört med att tvingas leva med någon vi hatar."', 'citerad': 'Jean de La Bruyére'}
+{'citat': '"Jorden tillhör inte människan, det är människan som tillhör jorden."', 'citerad': 'Indianhövding'}
+{'citat': '"Människan står inte ut med särskilt mycket verklighet."', 'citerad': 'T.S. Eliot'}
+{'citat': '"Vi är alla änglar med en vinge och bara genom att omfamna varandra kan vi flyga."', 'citerad': 'Luciano de Crescenzo'}
+{'citat': '"Där kärleken går in genom fönstret går olyckan ut genom dörren."', 'citerad': 'Polskt ordspråk'}
+{'citat': '"Ibland förlåter jag Gud. Fast hans synder är då betydligt större än mina."', 'citerad': 'Gustav Sandgren'}
+{'citat': '"Det smärtar mig att människorna inte känner mig. Det smärtar mig att jag inte känner människorna."', 'citerad': 'Konfucius'}
+{'citat': '"Den ler åt ärr som aldrig känt ett sår."', 'citerad': 'William Shakespeare'}
+{'citat': '"Det ord du säger skall möta gensvar av ett ord med samma klang."', 'citerad': 'Grekiskt ordspråk'}
+{'citat': '"Livet är endast ett leende på dödens läppar."', 'citerad': 'Li Chin'}
+{'citat': '"Utan tvivel är man inte riktigt klok."', 'citerad': 'Tage Danielsson'}
+{'citat': '"Ju längre tillbaka du kan se, desto längre framåt ser du troligen."', 'citerad': 'Winston Churchill'}
+{'citat': '"Ingen kan få dig att känna dig mindervärdig utan ditt samtycke."', 'citerad': 'Eleanor Roosevelt'}
+{'citat': '"En idé som inte innebär några risker är knappast värd att kallas för idé."', 'citerad': 'Oscar Wilde'}
+{'citat': '"Jag har inte rätt till livets överflöd förrän alla har fått livets nödtorft."', 'citerad': 'Ralph S. Cusham'}
+{'citat': '"Nej, försök inte. Gör eller gör inte. Det finns inte försök."', 'citerad': 'Steven Spielberg (Yoda i Star Wars)'}
+{'citat': '"Livet är en sexuellt överförd åkomma och dess dödlighet är 100 procent."', 'citerad': 'R.D. Laing'}
+{'citat': '"Den som inte håller på att födas håller på att dö."', 'citerad': 'Bob Dylan'}
+{'citat': '"Det snabbaste och bästa sättet att lyckas är att låta människor få klart för sig att det ligger i deras intresse att främja dina intressen."', 'citerad': 'Jean de la Bruyére'}
+{'citat': '"Man kan aldrig stiga ner i samma flod två gånger."', 'citerad': 'Indiskt ordspråk'}
+{'citat': '"Vi lova som våra förhoppningar bjuda oss, men vi hålla som vår fruktan tvingar oss."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"De människor som fått ut mest av livet är inte de som levt ett sekel, utan de som levt varje minut."', 'citerad': 'Sidonie Gabrielle Colette'}
+{'citat': '"Fattig är den som räknar sina pengar."', 'citerad': 'Arnulf Øverland'}
+{'citat': '"Ondska kan bli ersatt, men aldrig utrotat, eftersom alla lösningar föder nya problem."', 'citerad': 'Sheldon B. Kopp'}
+{'citat': '"Lovord vunna genom gräl är värdelösa."', 'citerad': 'Buddha'}
+{'citat': '"Målet är vägen."', 'citerad': 'Robert Broberg'}
+{'citat': '"Att lära sig är att upptäcka att något är möjligt."', 'citerad': 'Frederick "Fritz" Perls'}
+{'citat': '"Vi lär inte för skolan utan för livet. (Non scholae sed vitae discimus.)"', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Lev så, att i din sista stund alla nadra gråta, men du själv har ingen tår att fälla."', 'citerad': 'Dag Hammarskjöld'}
+{'citat': '"Man kan ofta finna i floder vad man inte kan finna i hav."', 'citerad': 'Said Sidiqi'}
+{'citat': '"Den som aldrig begår dårskaper är ej så förnuftig som han själv tror."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"En bok är lik en trädgård som du bär i din ficka."', 'citerad': 'Arabiskt ordspråk'}
+{'citat': '"Den som först tar till våld visar att han inte har fler argument."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Om det vore så roligt att arbeta som många påstår, så skulle borgmästaren hugga sin ved själv."', 'citerad': 'Okänd'}
+{'citat': '"Lyckan är lik en parfym, vi kan inte stänka den på en annan utan att ett par droppar faller på oss själva."', 'citerad': 'William Shakespeare'}
+{'citat': '"Om ni visste hur mycket tid det tog mig att uppnå mitt mästerskap, skulle det inte verka så fantastiskt."', 'citerad': 'Michelangelo'}
+{'citat': '"Skäms över att säga att du älskar om du inte också förlåter."', 'citerad': 'John Walsh Anglund'}
+{'citat': '"Vetenskap är i huvudsak ett filosofiskt närmande till världen och inte bara en samling av fakta."', 'citerad': 'White'}
+{'citat': '"Desto större svårighet, desto större ära."', 'citerad': 'Cicero'}
+{'citat': '"Naturens röst är mäktig. Även om hunden koras till konung gnager han dock på en gammal go."', 'citerad': 'Hitopadesha'}
+{'citat': '"Ahimsa, "ickevåld", är mycket mer än frånvaron av förstörelse. Det är frånvaron av en önskan att förstöra."', 'citerad': 'Mark Juergensmeyer'}
+{'citat': '"Våra fienders mening om oss kommer sanningen närmare än vår egen."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"Bildning är inte vad vi lärt, utan vad vi har kvar när vi glömt allt vi lärt."', 'citerad': 'Ellen Key'}
+{'citat': '"Amatörer gör det de kan. Klåpare gör det de inte kan."', 'citerad': 'Walt Disney'}
+{'citat': '"Det som är vackrast hos virila män är någonting feminint; det som är vackrast hos feminina kvinnor är någonting maskulint."', 'citerad': 'Helen Sontag'}
+{'citat': '"Kapitalismens överlägsenhet som skapare av ett bättre människosläkte bevisas väl bäst av den enkla sanningen att det finns få 75-åriga gruvarbetare som kan klå Marcus Wallenberg i tennis"', 'citerad': 'Tage Danielsson'}
+{'citat': '"Stora män känner sig aldrig stora. Små män känner sig aldrig små. "', 'citerad': 'Okänd'}
+{'citat': '"Människor är inte kloka i förhållande till sin erfarenhet, utan till sin förmåga att göra erfarenheter."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Inget är nytt under solen, men det finns många gamla saker vi ej vet."', 'citerad': 'Ambrose Bierce'}
+{'citat': '"Inget händer om det inte först är en dröm."', 'citerad': 'Carl Sandburg'}
+{'citat': '"Ju mer jag tänker på saken, dess tydligare tycks det mig att livet är till helt enkelt för att levas."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Kärlek är tålmodig, kärlek är vänlig. Den är inte avundsjuk, den skryter inte, den är inte stolt. Den är inte ohövlig eller självisk, den blir inte lätt upprörd, den bokför inte rätt och fel."', 'citerad': '1 Korinterbreven 13:4,5'}
+{'citat': '"Om du bara kunde älska tillräckligt mycket, skulle du vara den mäktigaste människan i världen."', 'citerad': 'Emmett Fox'}
+{'citat': '"Alla vill leva länge, men ingen vill bli gammal."', 'citerad': 'Benjamin Franklin'}
+{'citat': '"Hjälp andra, men när du gör det, glöm inte dig själv."', 'citerad': 'Buddha'}
+{'citat': '"bättre att fråga och verka dum, än att inte fråga och förbli dum."', 'citerad': 'Okänd'}
+{'citat': '"Hjärtat har sina skäl som förnuftet inte vet något om."', 'citerad': 'Blaise Pascal'}
+{'citat': '"Det som är värt att göra är också värt att göra ordentligt."', 'citerad': 'Philip Dormer Stanhope (Earl av Chesterfield)'}
+{'citat': '"Den första delen av våra liv förstörs av våra föräldrar, den andra av våra barn."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Den som inte har tilltro till andra, kommer inte att vinna tilltro hos dem."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Vi har mött fienden, och han är oss."', 'citerad': 'Pogo'}
+{'citat': '"Jag gick till skogs för att jag ville leva med avsikt, att konfronteras bara med de viktigaste faktumen i livet, för att se om jag inte kunde lära mig vad de hade att lära ut, för att inte, när jag dör upptäcka att jag inte levt."', 'citerad': 'Henry David Thoreau'}
+{'citat': '"En fattig saknar mycket, en girig allt."', 'citerad': 'Publicus Cyrus'}
+{'citat': '"Mycket få människor lever i dag de flesta gör förberedelser för att leva i morgon."', 'citerad': 'Jonathan Swift'}
+{'citat': '"Hundra män kan åstadkomma ett läger - men för att skapa ett hem krävs en kvinna. "', 'citerad': 'Okänd'}
+{'citat': '"Ta bort kärleken och vår jord blir som en grav."', 'citerad': 'Robert Browning'}
+{'citat': '"Ryck upp villfarelsen med roten genom att sluta tänka i begreppet "jag"."', 'citerad': 'Buddha'}
+{'citat': '"Utan att gå ut, kan du lära känna hela världen."', 'citerad': 'Lao Tzu'}
+{'citat': '"Jag har alltid vetat att jag tillslut skulle ta denna väg, men igår visste jag inte att det skulle bli idag."', 'citerad': 'Ariwara no Narihira'}
+{'citat': '"Jag respekterar tron, men tvivlet är det man blir bildad av."', 'citerad': 'Wilson Mizner'}
+{'citat': '"Den vise talar om vad han ser, dåren om vad han hört."', 'citerad': 'Okänd'}
+{'citat': '"Två sanningar närmar sig varann, en kommer inifrån, en kommer utifrån och där de möts har man en chans att få se sig själv."', 'citerad': 'Tomas Tranströmer'}
+{'citat': '"Vilken idiot som helst kan kritisera, fördöma och klaga och de flesta idioterna gör det."', 'citerad': 'Dale Carnegie'}
+{'citat': '"Älska din granne men sätt upp ett staket."', 'citerad': 'Ryskt ordspråk'}
+{'citat': '"Något man måste uppskatta småbarn för är att de inte går omkring och visar fotografier av sin föräldrar"', 'citerad': 'Tage Danielsson'}
+{'citat': '"Ju bättre soldat, dess sämre människa."', 'citerad': 'Napoleon Bonaparte'}
+{'citat': '"Det viktigaste är inte varifrån man kommer, utan vart man är på väg."', 'citerad': 'Bernie Rhodes'}
+{'citat': '"För att kunna vinna jackpot måste du satsa en slant."', 'citerad': 'Fillip Wilson'}
+{'citat': '"Människor har oftast två anledningar för vad de gör: en som låter bra och en som är sann."', 'citerad': 'J. Pierpont Morgan'}
+{'citat': '"Vänlighet är den gyllene kedja av vilken samhället hålls ihop."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Man måste ha ett visst mått av intelligent dumhet för att komma någon vart."', 'citerad': 'Charles F. Kettering'}
+{'citat': '"Kunskap är inte nog, den måste också brukas; vilja är inte nog, vi måste också handla."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Den som vet att han har tillräckligt är rik."', 'citerad': 'Lao Tzu'}
+{'citat': '"Man dör bara en gång, men man är död så länge."', 'citerad': 'Moliére'}
+{'citat': '"Ödmjukhet är den värsta formen av hyckleri."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"Vi tänker bara när vi ställs inför ett problem."', 'citerad': 'John Dewey'}
+{'citat': '"Tiden förändras inte; vi förändras."', 'citerad': 'Henry David Thoreau'}
+{'citat': '"Arbeta som om du skulle leva i evighet. Älska som om du skulle dö idag."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Ingen skulle säga mycket i samhället, om han visste hur ofta han missförstår andra."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Om ni önskar samtala med mig, måste ni definiera era begrepp."', 'citerad': 'Voltaire'}
+{'citat': '"Demokrati är den värsta formen av styrelsesätt någonsin provat i världen. De enda undantagen är alla andra sätt som provats."', 'citerad': 'Winston Churchill'}
+{'citat': '"Vi tror inte på reumatism och äkta kärlek förrän efter första attacken."', 'citerad': 'Marie von Ebner-Eschenbach'}
+{'citat': '"Fred är inte frånvaro av krig, det är en dygd, ett sinnestillstånd, en läggning av vänlighet, förtroende, rättvisa."', 'citerad': 'Benedict Spinoza'}
+{'citat': '"En människas död är mera de efterlevandes problem än hans eget."', 'citerad': 'Thomas Mann'}
+{'citat': '"Den som fruktar döden gläder sig inte åt livet."', 'citerad': 'Okänd'}
+{'citat': '"Om du ger din vän en fisk så blir han mätt för en dag, men om du lär honom att fiska så blir han mätt hela livet."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Det högsta är ej att aldrig falla utan att resa sig efter varje fall."', 'citerad': 'Okänd'}
+{'citat': '"Tankar är värdelösa om de endast är tankar."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"En droppe honung fångar fler flugor än ett helt fat med ättika."', 'citerad': 'Saint François de Sales'}
+{'citat': '"Livet ger oss åter det vi ger åt andra."', 'citerad': 'Ivo Andric'}
+{'citat': '"Jag tror på köttets lust och själens obotliga ensamhet."', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Han som har ett varför att leva för kan klara av nästan vilket hur som helst."', 'citerad': 'Fredreich Nietzsche'}
+{'citat': '"Syftet med upptäcktsresor är inte att se nya land utan att se dessa land med nya ögon."', 'citerad': 'Marcel Proust'}
+{'citat': '"Det finns två grupper av människor , en som går före och uträttar något och en som kommer efter och kritiserar."', 'citerad': 'Seneca'}
+{'citat': '"Att leva utan att älska är inget verkligt liv."', 'citerad': 'Moliére'}
+{'citat': '"Ingen människa kan vara en ren specialist utan att i egentlig mening vara en idiot."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Kvinnors styrka är männens svaghet"', 'citerad': 'Okänd'}
+{'citat': '"Det är omöjligt för en som gått ner sig i ett träsk att dra upp en annan som gått ner sig."', 'citerad': 'Buddha'}
+{'citat': '"Sanningen är en sällsynt rätt. Kommer den på bordet kan ingen smälta den."', 'citerad': 'Okänd'}
+{'citat': '"Vi upptäcker hos oss själva vad andra döljer för oss, och hos andra, vad vi döljer för oss själva."', 'citerad': 'Vauvenargues'}
+{'citat': '"Människor kan diskutera, men naturen agerar."', 'citerad': 'Voltaire'}
+{'citat': '"Den som ber blygt ber om ett nej."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Människan är en tänkande varelse, men hennes storverk utförs när hon inte beräknar eller tänker."', 'citerad': 'Daisetz T. Suzuki'}
+{'citat': '"Att vinna är lidande, att förlora är upplysning."', 'citerad': 'Sawaki Kodo'}
+{'citat': '"Varför skulle vi bekymra oss om döden? Livet har ju så många viktiga uppgifter som måste lösas först."', 'citerad': 'Konfucius'}
+{'citat': '"Att träta med en kvinna är som att försöka läsa tidning i storm."', 'citerad': 'Fjodor Dostojevkij'}
+{'citat': '"Frihet som beror på världsliga ting kan undergrävas, och frihet som kan ges kan tas bort."', 'citerad': 'Thomas Cleary'}
+{'citat': '"Verklig glädje är en högst allvarlig sak."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Vår possition avgör vad vi ser."', 'citerad': 'Ylva Eggehorn'}
+{'citat': '"Jag motsäger mig själv. Jag är väldig. Jag innehåller mångfalder."', 'citerad': 'Walt Whitman'}
+{'citat': '"Alla pratar om vädret och ingen gör något åt det."', 'citerad': 'Engelskt ordspråk'}
+{'citat': '"Det är illa att inte ha några pengar, för då tror folk att man är fattig"', 'citerad': 'Okänd'}
+{'citat': '"En hungrig människa mindre betyder en broder mer."', 'citerad': 'Stig Dagerman'}
+{'citat': '"Framtiden är inte längre vad den brukade vara."', 'citerad': 'Arthur C. Clarke'}
+{'citat': '"Lär som om du skulle leva för evigt. Lev som om du skulle dö i morgon."', 'citerad': 'Mahatma Gandhi'}
+{'citat': '"Om ingenting blir bättre av att man talar om det så blir det i alla fall inte sämre."', 'citerad': 'Märta Tikkanen'}
+{'citat': '"Om en man inte blir en gren snurrad och uppslukad i strömmen, måste han bli strömmen själv, hela strömmen, från dess källa tills dess förenande med havet."', 'citerad': 'Ursula Le Guin'}
+{'citat': '"Den största utmaningen är att vara sig själv i en värld där alla försöker få dig att bli någon annan."', 'citerad': 'E.E. Cummings'}
+{'citat': '"Med goda idéer är det som med svamp; där man hittar en finns det ofta flera."', 'citerad': 'Hans Carossa'}
+{'citat': '"Den som inte går vilse hittar kanske aldrig gläntan i skogen."', 'citerad': 'Tomas Tranströmer'}
+{'citat': '"Livsvisdom är att lägga de oväsentliga sakerna åt sidan."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Handlingar utan ord är bättre än ord utan handlingar."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Bara störda människor stör andra."', 'citerad': 'Dan Millman'}
+{'citat': '"Du kan inte koka en halv höna och låta den andra hälften lägga ägg."', 'citerad': 'Nikita Chrustjov'}
+{'citat': '"Den nyttigaste läxa livet lärt mig är att idioterna många gånger har rätt."', 'citerad': 'Winston Churchill'}
+{'citat': '"Evigheten varar länge, särskilt mot slutet."', 'citerad': 'Woody Allen'}
+{'citat': '"Studera som om du aldrig skulle bemästra det; som om du var rädd att förlora det."', 'citerad': 'Konfucius'}
+{'citat': '"Hur en människa relaterar till skoningslöst realistisk fakta såsom döden kan vara viktigare för henne än döden i sig."', 'citerad': 'Rollo May'}
+{'citat': '"Man måste veta när det är dags att sluta."', 'citerad': 'Lao Tzu'}
+{'citat': '"Rikast är den, vars nöjen kostar minst."', 'citerad': 'Henry David Thoreau'}
+{'citat': '"Aldrig ångra det man gjort, men det man inte gjort."', 'citerad': 'Elmer Diktonius'}
+{'citat': '"Ett gram träning är bättre än flera ton av teori."', 'citerad': 'Swami Sivananda'}
+{'citat': '"Att ångra sina erfarenheter är att hejda sin utveckling."', 'citerad': 'Oscar Wilde'}
+{'citat': '"Vad som går upp måste komma ner."', 'citerad': 'Erwin P. Hill'}
+{'citat': '"Ett äventyr är bara något obehagligt rätt betraktat. Något obehagligt är bara ett äventyr felaktigt betraktat."', 'citerad': 'G.K. Chesterton'}
+{'citat': '"Vi är skyldiga att säga våra vänner sanningen hur behaglig den än må vara."', 'citerad': 'Magnus von Platen'}
+{'citat': '"Erfarenheten är det som gör att du kan känna igen ett misstag när du gör det på nytt."', 'citerad': 'Franklin P. Jones'}
+{'citat': '"Levnadsstandarden i Sverige är nu så hög att endast ett fåtal når upp till den"', 'citerad': 'Red Top'}
+{'citat': '"Det enda ondskan behöver för att segra är att de goda ingenting gör."', 'citerad': 'Edmund Burke'}
+{'citat': '"Redan de gamla Grekerna trodde sig leva i nutiden"', 'citerad': 'Red Top'}
+{'citat': '"Dom säger att filmerna borde vara mer som livet. Jag tycker livet borde vara mer som filmerna."', 'citerad': 'Myrna Loy'}
+{'citat': '"Leendet du sänder ut vänder åter till dig."', 'citerad': 'Indiskt ordspråk'}
+{'citat': '"I händelse av ett tredje världskrig är det bara Keith Richards och kackerlackorna som kommer överleva."', 'citerad': 'Okänd'}
+{'citat': '"För människorna döljes ofta det eviga, det viktiga, av en ogenomtränglig slöja. Slöjan reflekterar dagsljuset."', 'citerad': 'Ludwig Wittgenstein'}
+{'citat': '"Stordåd åstadkoms inte med styrka utan genom ihållighet."', 'citerad': 'Johnson (Lyndon B./Samuel?)'}
+{'citat': '"Sök inte eder tillflykt hos någon utom eder själva."', 'citerad': 'Buddha'}
+{'citat': '"Livet är antingen ett spännande äventyr eller ingenting."', 'citerad': 'Helen Keller'}
+{'citat': '"Jorden kan du inte göra om. Stilla din häftiga själ. Endast en sak kan du göra: en annan människa väl."', 'citerad': 'Stig Dagerman'}
+{'citat': '"Ditt huvud är ditt hem möblera det."', 'citerad': 'Arabiskt ordspråk'}
+{'citat': '"Människorna kan delas in i två grupper: en som går före och uträttar något och en som kommer efter och kritiserar."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Vad du är är mycket viktigare än vad du säger."', 'citerad': 'John Stevens'}
+{'citat': '"Säg inte allt vad du tänker, men tänk allt vad du säger."', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"När det är ett val mellan att gå upp eller ner, gå ner."', 'citerad': 'Ramakrishna'}
+{'citat': '"Intelligens är att hålla två idéer i huvudet samtidigt."', 'citerad': 'F. Scott Fitzgerald'}
+{'citat': '"En liten bit i taget, och du kommer långt."', 'citerad': 'Okänd'}
+{'citat': '"Det som skrives det gömmes, det som talas det glömmes."', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"En tids skilsmässa försvagar en svag lidelse men gör en stark ännu starkare, liksom vinden får ett ljus att slockna men en eld att flamma upp."', 'citerad': 'Le Rochefoucauld'}
+{'citat': '"Problemen lösas inte genom ytterligare informationer utan genom att ordna vad vi alltid vetat."', 'citerad': 'Ludwig Wittgenstein'}
+{'citat': '"Utbildning är inte en förberedelse till livet, utbildning är livet självt."', 'citerad': 'John Dewey'}
+{'citat': '"Enda sättet att få en vän är att vara en."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Det näst bästa efter att veta något är att veta hur man ska ta reda på det."', 'citerad': 'Samuel Johnson'}
+{'citat': '"Vi förstör livet genom att bekymra oss om döden; och förstör döden genom att bekymra oss om livet."', 'citerad': 'Michel de Montaigne'}
+{'citat': '"Det angår också dig när det brinner hos grannen."', 'citerad': 'Horatius'}
+{'citat': '"Kärlekens dörr är svår att öppna och svår att stänga."', 'citerad': 'Okänd'}
+{'citat': '"Bättre att vara slagen i bojor med vänner än att vara i en trädgård med främlingar."', 'citerad': 'Persiskt ordspråk'}
+{'citat': '"Ingen har krossats av motgången som inte låtit sig bedåras av medgången."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Att tiga är hos en sångare ett brott."', 'citerad': 'Gustav Fröding'}
+{'citat': '"Där kadavret är, dit församla sig ock gamarna."', 'citerad': 'Jesus Kristus'}
+{'citat': '"Agera därför att det är rätt och inte därför att du tycker om det."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Segraren räknar döda och sårade fiender för att få ett begrepp om sin seger."', 'citerad': 'August Strindberg'}
+{'citat': '"Övertygelser är ett större hot mot sanningen än lögner."', 'citerad': 'Fredreich Nietzsche'}
+{'citat': '"Du kan lära dig av din egen bittra erfarenhet, eller av andras dyrköpta erfarenhet."', 'citerad': 'Steve Maguire'}
+{'citat': '"Livet är inte de dagar som gått utan de dagar man minns."', 'citerad': 'Pavlenko'}
+{'citat': '"Man måste ha gått igenom åtskilligt för att ha barnasinnet kvar."', 'citerad': 'Gunnar Ekelöf'}
+{'citat': '"Om man bara kunde falla  i en kvinnas armar utan att också falla i händerna på henne."', 'citerad': 'Ambrose Bierce'}
+{'citat': '"Jag tror den bästa definitionen av människan är den otacksamma tvåbeningen."', 'citerad': 'Fjodor Dostojevskij'}
+{'citat': '"Om man inte vet vart man ska är det ingen idé att skynda sig. Man vet ju ändå inte när man är framme."', 'citerad': 'A. A. Milne (Nalle Puh)'}
+{'citat': '"Det man inte kan få, det dödar man."', 'citerad': 'Peter Ustinov'}
+{'citat': '"Maten går före moralen."', 'citerad': 'Bertold Brecht'}
+{'citat': '"Födelse ger upphov till ålderdom och död."', 'citerad': 'Buddha'}
+{'citat': '"De som vilse vandra, nya stigar leta, varav sedan andra hava gagn att veta."', 'citerad': 'Gustav Fröding'}
+{'citat': '"En människa gör vad hon gör för att hon ser världen som hon gör."', 'citerad': 'Alfred Korzybski'}
+{'citat': '"Om vi inte ändrar riktning kommer vi antagligen dit vi är på väg."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Lär detta av vatten: högljutt plaskar bäcken, men oceanens djup är stilla."', 'citerad': 'Buddha'}
+{'citat': '"Det är inte monumenten som lär oss historia. Det är ruinerna."', 'citerad': 'Carl Hammarén'}
+{'citat': '"Stora tänkare har alltid mött kraftig opposition från mediokra tänkare."', 'citerad': 'Albert Einstein'}
+{'citat': '"Geniet gör vad det måste, talangen gör vad den kan."', 'citerad': 'Owen Meredith'}
+{'citat': '"Smärta är tillfällig, ära är för evigt."', 'citerad': 'Cherron Taylor'}
+{'citat': '"Den som alltför envist hävdar sina egna åsikter finner sällan människor som instämmer med honom."', 'citerad': 'Lao Tzu'}
+{'citat': '"Livet måste levas framifrån, men kan endast förstås bakifrån."', 'citerad': 'Søren Kierkegaard'}
+{'citat': '"Kejsaren är rik, men han kan inte köpa ett år till att leva"', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"För att få en god hälsa måste vi följa naturens lagar."', 'citerad': 'Orientaliskt ordspråk'}
+{'citat': '"Den sanna ledaren har inget behov av att leda. Han är nöjd med att bara peka ut vägen."', 'citerad': 'Henry Miller'}
+{'citat': '"Man kommer längre med vänliga ord och en laddad pistol än vänliga ord enbart."', 'citerad': 'Al Capone'}
+{'citat': '"Går en sol ner för dig, så stå inte och se mot väster, se mot öster."', 'citerad': "Theodore Agrippa d'Aubigne"}
+{'citat': '"Om tillräckligt många tror, blir alltihopa verklighet"', 'citerad': 'Reefat El-Sayed'}
+{'citat': '"Frid i tankarna. Det är det efterlängtade målet för den som filosoferar."', 'citerad': 'Ludwig Wittgenstein'}
+{'citat': '"Frukta inte fiender som attakerar dig. Frukta fiender som ger dig komplimanger."', 'citerad': 'Alvaro Obregon'}
+{'citat': '"Vi stoppar mediciner, om vilka vi vet mycket lite, i kroppar som vi vet mindre om för att bota sjukdomar, som vi inte vet någonting alls om."', 'citerad': 'Voltaire'}
+{'citat': '"Grannens kor mjölkar alltid bäst."', 'citerad': 'Okänd'}
+{'citat': '"Den man som besegrar sig själv är överlägsen den som besegrar tusen man i ett fältslag."', 'citerad': 'Buddha'}
+{'citat': '"Den som ställer många frågor ökar mångas visdom."', 'citerad': 'Kongolesiskt ordspråk'}
+{'citat': '"Om det man inte vet håller man tyst."', 'citerad': 'Ludvig Wittgenstein'}
+{'citat': '"I de blindas rike är den enögde kung"', 'citerad': 'Niccoló Machiavelli'}
+{'citat': '"Det som är botten i mig är botten i andra."', 'citerad': 'Gunnar Ekelöf'}
+{'citat': '"Man har inte längre frid än ens granne vill."', 'citerad': 'Gustav Vasa'}
+{'citat': '"Kärlek och hosta kan inte döljas."', 'citerad': 'George Herbert'}
+{'citat': '"Om du vill lära känna vägen framför dig, fråga dem som går åt andra hållet. "', 'citerad': 'Okänd'}
+{'citat': '"De små mopsarna tror att de är stora bara för att de inte längre växer."', 'citerad': 'Louis de Geer'}
+{'citat': '"På högmod följer fall."', 'citerad': 'Buddha'}
+{'citat': '"Kungarnas olycka är att de aldrig får höra sanningen."', 'citerad': 'Johann Jacobi'}
+{'citat': '"Säg mig vad du föraktar och jag skall visa dig din begränsning."', 'citerad': 'Verner von Heidenstam'}
+{'citat': '"Män, liksom kvinnor, följer mycket oftare sina hjärtan än sina förstånd."', 'citerad': 'Philip Dormer Stanhope (Earl av Chesterfield)'}
+{'citat': '"Det är bättre att öva än att studera."', 'citerad': 'Tempu Nakamura'}
+{'citat': '"Sök frukten, inte bara blommorna."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Det mänskliga livet börjar på andra sidan hopplösheten."', 'citerad': 'Jean'}
+{'citat': '"Man vill inte vara den man är. Man vill vara den som man inbillar sig att man kunde ha blivit."', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Varje dag borde levas som om den skulle bli vår sista."', 'citerad': 'Publilius Syrus'}
+{'citat': '"Att misslyckas är nyckeln till framgång. Varje misstag lär oss något. Att vara modig är att våga misslyckas."', 'citerad': 'Morihei Ueshiba'}
+{'citat': '"Antingen så finner vi en väg, eller så gör vi en."', 'citerad': 'Hannibal'}
+{'citat': '"Man drar inte svärd mot en lus."', 'citerad': 'Ryskt ordspråk'}
+{'citat': '"Glädje är själens hälsa."', 'citerad': 'Alf Ahlberg'}
+{'citat': '"Allt vad du uträttar förökar din kraft att göra mera."', 'citerad': 'Jean Paul'}
+{'citat': '"Som fri handling är olydnaden tänkandets begynnelse."', 'citerad': 'Erich Fromm'}
+{'citat': '"Du kan misslyckas många gånger men du är inte misslyckad förrän du börjar skylla på andra."', 'citerad': 'Olaus Petri'}
+{'citat': '"Den ädle ställer krav på sig själv, den simple ställer krav på andra."', 'citerad': 'Konfucius'}
+{'citat': '"Många som bär en värja fruktar folk som endast har en gåspenna i handen."', 'citerad': 'William Shakespeare'}
+{'citat': '"Vad var mången stor, rik framgång, annat än väl utnyttjade misslyckanden?"', 'citerad': 'Arne Hirdman'}
+{'citat': '"Var dig själv, det finns redan så många andra."', 'citerad': 'Loesje'}
+{'citat': '"Om din lycka är avhängig av vad andra gör så har du verkligen problem."', 'citerad': 'Richard Bach'}
+{'citat': '"Att studera är som att ro uppför strömmen, den som inte tar krafttag glider tillbaka."', 'citerad': 'Okänd'}
+{'citat': '"Sarkastiska anmärkningar är det säkraste medlet att roa för ögonblicket och att förvärva ovänner för livstiden."', 'citerad': 'Henrik Bernhard Palmér'}
+{'citat': '"Lyckliga människor räknar inte flyende minuter. "', 'citerad': 'Okänd'}
+{'citat': '"Det är inte vårat syfte att bli varandra; det är att känna igen varandra, att lära oss se den andre och hedra honom för vad han är."', 'citerad': 'Herman Hesse'}
+{'citat': '"En åsikt är nödvändigtvis inte riktig för att någon är villig att dö för den."', 'citerad': 'Oscar Wilde'}
+{'citat': '"Det finns tre ting som inte kan döljas: kärlek, rök och en man som rider på en kamel."', 'citerad': 'Okänd'}
+{'citat': '"Rökare är också människor fast inte lika länge"', 'citerad': 'Okänd'}
+{'citat': '"Droppen urholkar stenen icke genom sin kraft, utan genom att ständigt falla."', 'citerad': 'Publius Ovidius Naso'}
+{'citat': '"Vad du ej klart kan säga vet du ej. Med tanken ordet föds på mannens läppar. Det dunkelt sagda är det dunkelt tänkta."', 'citerad': 'Esaias Tegnér'}
+{'citat': '"Kvinnor lovordar en blygsam man, men de tycker inte om honom."', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"Män upptäcker ofta saker som kvinnorna känt till länge."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Vetenskapen erbjuder en säkrare väg till Gud än religionen."', 'citerad': 'Paul Davies'}
+{'citat': '"Jag är shejk, du är shejk, vem skall göra upp eld?"', 'citerad': 'Arabiskt ordspråk'}
+{'citat': '"Om din fiende är hungrig, ge honom bröd."', 'citerad': 'Ordspråksboken 25:21'}
+{'citat': '"Om du tänker för länge på nästa steg kommer du att tillbringa resten av livet på ett ben"', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Med vetandet växer tvivlet."', 'citerad': 'Johann Wolfgang von Goethe'}
+{'citat': '"Livet är märkvärdigt. Om man vägrar att godta annat än det bästa händer det att man får det."', 'citerad': 'William Somerset Maugham'}
+{'citat': '"Vi begränsar vår värld med tanken."', 'citerad': 'Buddha'}
+{'citat': '"Jag har varit med om dig. Jag kan aldrig förlora dig."', 'citerad': 'Jaques Werup'}
+{'citat': '"Hur kan en trollslända, som endast lever om sommaren, veta något om vintern?"', 'citerad': 'Zhuan Zi'}
+{'citat': '"Lojalitet mot förstenade åsikter har hittills aldrig slitit av några bojor eller befriat någon mänsklig själ."', 'citerad': 'Mark Twain'}
+{'citat': '"Vad många av oss mest av allt behöver är någon som får oss att göra det vi kan."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Han som fällde trädet tänkte inte på att skuggan försvann."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Jag hävdar att spänningen mellan tro och vetande inte skall lösas genom uteslutning eller motsättning utan genom syntes."', 'citerad': 'Teilhard de Chardin'}
+{'citat': '"Själen skulle inte ha någon regnbåge om ögonen inte hade tårar."', 'citerad': 'Indiskt ordspråk'}
+{'citat': '"Mod är rädsla för att verka feg."', 'citerad': 'Horace Smith'}
+{'citat': '"Det du är nu, var vi en gång. Det vi är nu, blir du en gång."', 'citerad': 'Inskription på Irländsk krypta'}
+{'citat': '"Det underligaste med framtiden är väl att man då kommer att kalla vår tid den gamla goda."', 'citerad': 'Ernest Hemingway'}
+{'citat': '"Bättre att tända ett ljus än aldrig så litet än att förbanna mörkret"', 'citerad': 'Konfucius'}
+{'citat': '"Den som vill ta honung i kupan får finna sig i att bli stungen."', 'citerad': 'Okänd'}
+{'citat': '"Vi är urstånd att uttrycka det som vi vill uttrycka och allt vad vi säger om det absoluta miraklet förblir utan mening."', 'citerad': 'Ludwig Wittgenstein'}
+{'citat': '"Det vackraste vi kan uppleva är det oförklarliga."', 'citerad': 'Albert Einstein'}
+{'citat': '"Vad man är ska man ha mod att visa."', 'citerad': 'Esaias Tegnér'}
+{'citat': '"Vad en kvinna mest beundrar hos en man är att han gör sig bemärkt bland män. Vad en man mest beundrar hos en kvinna är att hon gör honom bemärkt."', 'citerad': 'Ambrose Bierce'}
+{'citat': '"Män, så väl som kvinnor, är oftare ledda av sina hjärtan än sina förstånd."', 'citerad': 'Earl of Chesterfield'}
+{'citat': '"Att leva är farligt - man kan dö - men ingen vet om det är farligt att dö."', 'citerad': 'Stig Arbman'}
+{'citat': '"Ge en man en mask och han kommer att säga sanningen."', 'citerad': 'Oscar Wilde'}
+{'citat': '"Vännskap föryngras när den åldras."', 'citerad': 'J. L. Heiberg'}
+{'citat': '"Om man talar sanning kan man vara säker på att förr eller senare bli avslöjad."', 'citerad': 'Oscar Wilde'}
+{'citat': '"Våra fienders tystnad är vältaligare än våra vänners beröm."', 'citerad': 'Arnold Ljungdal'}
+{'citat': '"Om en hammare är det enda verktyg du har, kommer allt att börja se ut som en spik."', 'citerad': 'Abraham Maslow'}
+{'citat': '"När förändringarnas vind blåser bygger somliga vindskydd, och andra väderkvarnar."', 'citerad': 'Mao Tse Tung'}
+{'citat': '"Nog finns det mål och mening i vår färd men det är vägen, som är mödan värd."', 'citerad': 'Karin Boye'}
+{'citat': '"Motion är strunt. Är du frisk så behöver du den inte och är du sjuk så bör du undvika den"', 'citerad': 'Henry Ford'}
+{'citat': '"Mycket av världens elände är resultatet av i demokratisk ordning fattade beslut."', 'citerad': 'Olof Palme'}
+{'citat': '"Vi sitter tillsammans, bergen och jag, tills endast bergen är kvar."', 'citerad': 'Li Po'}
+{'citat': '"Barn tala om vad de göra, gubbar om vad de gjort och narrar om vad de skola göra."', 'citerad': 'Johan Oxenstierna'}
+{'citat': '"Mitt språks gränser betyder min världs gränser."', 'citerad': 'Ludwig Wittgenstein'}
+{'citat': '"Frågan är inte vad som är meningen med livet, utan vad som är livets mening för dig."', 'citerad': 'Victor Frankl'}
+{'citat': '"Det man har vunnit är ingenting. Det man har förlorat är allt."', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Jag tänker inte på allt elände som har varit utan på allt det underbara som skall komma."', 'citerad': 'Anne Frank'}
+{'citat': '"Det enda goda är kunskap och det enda onda är okunnighet."', 'citerad': 'Sokrates'}
+{'citat': '"En människa har bara ett sätt att bli odödlig på denna jord: hon måste glömma att hon är dödlig."', 'citerad': 'Jean Giraudoux'}
+{'citat': '"Den som frågar kan inte undgå svaren."', 'citerad': 'Kamerunskt ordspråk'}
+{'citat': '"Den som ber undergivet ber om ett avslag"', 'citerad': 'Latinskt ordspråk'}
+{'citat': '"Jag tror att vi kan misslyckas i våra försök att göra saker, ändå kan vi handla rätt när handlingen är genuint ickevåldsam, grundad på förståelse, grundad på kärlek."', 'citerad': 'Thich Nhat Hanh'}
+{'citat': '"Det finns en sak starkare än alla arméer i världen, och det är en idé vars tid har kommit."', 'citerad': 'Victor Hugo'}
+{'citat': '"Du står inte bara i ansvar för vad du säger, utan också för vad du låter bli att säga."', 'citerad': 'Martin Luther'}
+{'citat': '"Det som är ytterligt fullbordat har alltjämt kvar hela sin framtid att fullborda."', 'citerad': 'Lao Tzu'}
+{'citat': '"Innan man är riktigt säker på en sak är man gärna tvärsäker."', 'citerad': 'Arne Hirdman'}
+{'citat': '"Ju mer det förändras, desto mer är det samma sak."', 'citerad': 'Franskt ordspråk'}
+{'citat': '"Att göra fel är mänskligt, att erkänna det är övermänskligt."', 'citerad': 'Doug Larson'}
+{'citat': '"Var och en av oss är till sist och syvenes ensam."', 'citerad': 'Sheldon B. Kopp'}
+{'citat': '"Det är bättre att ha älskat och förlorat, än att aldrig ha älskat någon gång."', 'citerad': 'Andreas Munch'}
+{'citat': '"Varje grässtrå har sin daggdroppe."', 'citerad': 'Rabindranath Tagore'}
+{'citat': '"Att vara ensam är bättre än att umgås med dårar."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Du får aldrig höra sanningen från sådana som kallar varandra dårar."', 'citerad': 'Buddha'}
+{'citat': '"I fredstid svettas mer, i krigstid blöd mindre."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Törst är det säkra beviset på vattnets existens."', 'citerad': 'Frans Werfel'}
+{'citat': '"Säkraste sättet att dölja sin begränsning är att inte överskrida den."', 'citerad': 'Giacomo Leopardi'}
+{'citat': '"Att ge vika för kraft är styrka."', 'citerad': 'Lao Tzu'}
+{'citat': '"Det ser mörkt ut på Kameruns avbytarbänk"', 'citerad': 'A Hegerfors'}
+{'citat': '"Den som inte har tilltro till andra skall ej finna tilltro hos dem."', 'citerad': 'Lao Tzu'}
+{'citat': '"Vi talar om att välja vänner, men vänner väljer sig själva."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Göra bara vad som behöver göras."', 'citerad': 'Lao Tzu'}
+{'citat': '"Först när man kan förlåta sina föräldrar är man vuxen."', 'citerad': 'Jean'}
+{'citat': '"För att utrota allt ont i världen finge nog de goda mobilisera all sin ondska!"', 'citerad': 'Arne Hirdman'}
+{'citat': '"Frihet är rätten att få säga saker till folk som de inte vill höra."', 'citerad': 'George Orwell'}
+{'citat': '"Om du säger att du håller med om något i princip så menar du att du inte har den ringaste avsikt att genomföra det."', 'citerad': 'Otto von Bismarck'}
+{'citat': '"Pengar gör ingen lycklig men visst har det en lugnande inverkan på nervsystemet                                                                                                                             "', 'citerad': 'Okänd'}
+{'citat': '"Det du ätit upp är borta. Det du skänkt bort lämnar ljuv doft."', 'citerad': 'Okänd'}
+{'citat': '"Mät aldrig bergets höjd förrän du nått toppen."', 'citerad': 'Dag Hammarskjöld'}
+{'citat': '"Bättre en gång gråta ut än ständigt sucka."', 'citerad': 'Asiatiskt ordspråk'}
+{'citat': '"Den som inte vet någonting tvivlar inte på något."', 'citerad': 'George Herbert'}
+{'citat': '"Tala i vredesmod och du kommer att hålla det bästa tal du någonsin ångrat."', 'citerad': 'Winston Churchill'}
+{'citat': '"Att förstå allt gör en väldigt överseende."', 'citerad': 'Madame de Stael'}
+{'citat': '"Ålderdomen är inte så illa om man tänker på alternantivet"', 'citerad': 'Maurice Chevalier'}
+{'citat': '"Om det är förnuftet som formar människan, så är det känslan som leder henne."', 'citerad': 'Jean'}
+{'citat': '"Gör ingenting som dina ovänner inte kan få veta."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Även det svagaste bläck är starkare än minnet."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Det är bättre att var en föredetting än aldrig ha varit något"', 'citerad': 'H. Gordon- Browne'}
+{'citat': '"Oändligt återstår att älska än."', 'citerad': 'Anders Österling'}
+{'citat': '"Den medicinska forskningen har gjort så enorma framsteg att det praktiskt taget inte finns någon frisk människa mer."', 'citerad': 'Aldous Huxley'}
+{'citat': '"Vilka sorger du än vill dränka, så är biblioteket den bästa baren."', 'citerad': 'J. Cocteau'}
+{'citat': '"Endast Gud, som gjorde oss rika, kan göra oss fattiga."', 'citerad': 'Elizabeth Barrett Browning'}
+{'citat': '"Man hinner med nästan hur mycket som helst om man bara inte gör sig någon brådska."', 'citerad': 'Gösta Ekman'}
+{'citat': '"Den som inte har förstånd på att åka vilse ser inte så mycket."', 'citerad': 'Jolo'}
+{'citat': '"Det finns något såsom en överdrift av sympati, en överdrift av tolerans, en överdrift av tillåtande."', 'citerad': 'M. Scott Peck'}
+{'citat': '"Köp mark, den tillverkas inte längre"', 'citerad': 'Mark Twain'}
+{'citat': '"Stort begär är ändlös fattigdom."', 'citerad': 'Indiskt ordspråk'}
+{'citat': '"Om vi bara ville vara lyckliga, skulle det inte vara svårt att nå lyckan, men vi vill vara lyckligare än andra."', 'citerad': 'Charles de Montesquieu'}
+{'citat': '"Om du fäller tårar när du saknar solen, kommer du också att vara utan stjärnor."', 'citerad': 'Rabindranath Tagore'}
+{'citat': '"Ett vänligt ord, i rättan tid sagt har mången sorg, i glädje bragt."', 'citerad': 'Svenskt ordspråk'}
+{'citat': '"Så snart som du börjar tänka på det "goda" och "onda" hos dina medmänniskor, skapar du en öppning i ditt hjärta för ondska att komma in. Prov, tävlingar, och kritik av andra gör dig svag och besegrar dig."', 'citerad': 'Morihei Ueshiba'}
+{'citat': '"Somliga tycker om att förstå det de tror på. Andra föredrar att tro på det de förstår."', 'citerad': 'Stanislav Jerzy Lec'}
+{'citat': '"Vill du vinna en man för din sak, bör du först övertyga honom om att du är hans uppriktige vän."', 'citerad': 'Abraham Lincoln'}
+{'citat': '"Världslitteraturens mest utsökta skatter blir kattguld inför ett ark med den älskades kråkfötter."', 'citerad': 'Frans G. Bengtsson'}
+{'citat': '"Sjömannnen ber inte om medvind. Han lär sig segla"', 'citerad': 'Gustaf Lindborg'}
+{'citat': '"Vi lever en sekund i taget, och den sekunden är just nu."', 'citerad': 'Eyvind Johnson'}
+{'citat': '"Om människor aldrig gjorde dumheter skulle aldrig något intelligent bli gjort."', 'citerad': 'Ludvig Wittgenstein'}
+{'citat': '"Alla djur, utom människan, vet att livets huvudsakliga mening är att njuta av det."', 'citerad': 'Samuel Butler'}
+{'citat': '"Men jag säger till dig, älska dina fiender, välsigna de som förbannar dig, gör gott mot de som hatar dig, och be för de som föraktfullt använder dig, och förtrycker dig."', 'citerad': 'Matteus 5:44'}
+{'citat': '"När två män i ett företag alltid är ense är den ena av dem onödig"', 'citerad': 'William Wrigley Jr'}
+{'citat': '"Den vän som förstår dig, skapar dig."', 'citerad': 'Romain Rolland'}
+{'citat': '"Alla klagar över sitt dåliga minne, men ingen över sitt dåliga förstånd."', 'citerad': 'Francois de La Rochefoucauld'}
+{'citat': '"Att våga är att förlora fotfästet en liten stund. Att inte våga är att förlora sig själv."', 'citerad': 'Søren Kierkegaard'}
+{'citat': '"Njut i dag - i morgon har du kanske inte råd"', 'citerad': 'Okänd'}
+{'citat': '"Den deprimerade dör långt innan hans hjärta slutat slå."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Oövervunnene, du är ej oövervinnelig!"', 'citerad': 'Pierre Corneille'}
+{'citat': '"Hellre en tillrättavisning från den vise än beröm från den dumme."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Försök inte att följa den väg de visa vandrat, sök vad de sökte."', 'citerad': 'Matsuo Basho'}
+{'citat': '"Det finns saker som man måste vara fackman för att inte förstå"', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Många lever med en så förbluffande rutin att det är svårt att tro att de lever för första gången."', 'citerad': 'Stanislaw Jerzy Lec'}
+{'citat': '"Turen ger aldrig bort någonting. Den lånar bara ut."', 'citerad': 'Okänd'}
+{'citat': '"Kvinnan var Guds misstag nummer två."', 'citerad': 'Friedrich Nietzsche'}
+{'citat': '"Dumhet är all forsknings moder."', 'citerad': 'Charles F. Kettering'}
+{'citat': '"Den som ser sina egna fel har inte tid till att se andras."', 'citerad': 'Ali Ibn'}
+{'citat': '"Det är viktigt att vara populär, annars tycker folk kanske inte om en."', 'citerad': 'Mimi Pond'}
+{'citat': '"Hur saker görs har blivit mycket viktigare än vad som görs."', 'citerad': 'Philip K. Howard'}
+{'citat': '"Bra timmer växer inte under bekväma förhållanden; ju starkare vind, desto starkare träd."', 'citerad': 'J. Willard Marriott'}
+{'citat': '"Förvänta dig inte att folk skall respektera dig för vad du tänker göra."', 'citerad': 'Henry Ford'}
+{'citat': '"För den som alltid talar om sina svårigheter är ingenting lätt."', 'citerad': 'Afrikanskt ordspråk'}
+{'citat': '"Ingen kan lära sig leva som inte har lärt sig att dö. Lär dig konsten att dö, så lär du dig konsten att leva."', 'citerad': 'Tibetanskt ordspråk'}
+{'citat': '"Framtiden ser man inte, däremot det förflutna. Det är märkligt eftersom vi inte har ögon i nacken."', 'citerad': 'Eugéne Ionesco'}
+{'citat': '"Tänk på många saker, men gör en sak i taget."', 'citerad': 'William Shakespeare'}
+{'citat': '"Innan du tar emot måste du ge."', 'citerad': 'Lao Tzu'}
+{'citat': '"Av sina illusioner känner man bara de brustna."', 'citerad': 'Frithiof Brandt'}
+{'citat': '"Den är aldrig ensam som är i goda tankars sällskap."', 'citerad': 'Sir Philip Sidney'}
+{'citat': '"Intelligenta människor har en tendens att övervärdera intelligens."', 'citerad': 'Hayek'}
+{'citat': '"En man med ringa förstånd får trötta fötter."', 'citerad': 'Okänd'}
+{'citat': '"Att födas till gentleman är en tillfällighet, att dö som en är en prestation."', 'citerad': 'Okänd'}
+{'citat': '"En musiker måste skapa musik, en konstnär måste måla, en skald måste skriva för att innerst inne kunna leva i frid med sig själv."', 'citerad': 'Abraham Maslow'}
+{'citat': '"Kunskap utan vishet kan förvränga och lura."', 'citerad': 'P.M.H. Atwater'}
+{'citat': '"Att uppleva så mycket som möjligt behöver inte nödvändigtvis betyda att leva upp så mycket som möjligt."', 'citerad': 'Salon Gahlin'}
+{'citat': '"När man lånar från en författare är det plagiat, men när man lånar från många är det forskning."', 'citerad': 'Wilson Mizner'}
+{'citat': '"Var ödmjuk om du vill lära dig visdom. Var ännu ödmjukare när du har vunnit visdom."', 'citerad': 'Tibetanskt ordspråk'}
+{'citat': '"Barnen håller på att bli stora när de ställer frågor det finns svar på"', 'citerad': 'U John Plomp'}
+{'citat': '"Fred är ej frånvaro av konflikt, utan förmågan att hantera konflikt med fredliga medel."', 'citerad': 'Ronald Reagan'}
+{'citat': '"Att förlita sig på sig själv är att fördubbla sin förmåga."', 'citerad': 'Johan Henric Kellgren'}
+{'citat': '"Skratta inte åt ålderdomen - bed att du själv skall nå den. "', 'citerad': 'Okänd'}
+{'citat': '"Tomma tunnor skramlar mest."', 'citerad': 'Okänd'}
+{'citat': '"Den som står på tå står ostadigt."', 'citerad': 'Okänd'}
+{'citat': '"Fred kräver daglig kamp."', 'citerad': 'Owens (Hopi indianhövding)'}
+{'citat': '"Egentligen skulle man inte visa medlidande med någon människa; det är bättre att hjälpa henne."', 'citerad': 'Maxim Gorkij'}
+{'citat': '"En man som ser världen på samma sätt när han är 50 år som när han var 20 år har slösat bort 30 år av sitt liv."', 'citerad': 'Muhammad Ali'}
+{'citat': '"Det är bättre att råka illa ut än att inte råka ut alls."', 'citerad': 'Danskt ordspråk'}
+{'citat': '"Även en tår är en intellektuell sak."', 'citerad': 'Gregory Bateson'}
+{'citat': '"Ej finnes gott, ej ont; blott våra tankar gör det så."', 'citerad': 'William Shakespeare'}
+{'citat': '"Vi får det öde vi har förtjänat."', 'citerad': 'Albert Einstein'}
+{'citat': '"Om man vill veta vad vår Herre anser om pengar, behöver man bara titta på de människor han har gett dem till"', 'citerad': 'Dorthy Parker'}
+{'citat': '"Somliga människor talar i sömnen till och med när de sover."', 'citerad': 'Henrik Bernhard Palmér'}
+{'citat': '"Alla vackra känslor i världen väger mindre än en enda vänlig handling."', 'citerad': 'James Russel Lowell'}
+{'citat': '"Gör aldrig samma misstag två gånger såvida det inte lönar sig"', 'citerad': 'Mae West'}
+{'citat': '"Vi får inte gå i döden med sparade krafter kvar."', 'citerad': 'Gunnar Ekelöf'}
+{'citat': '"En bankman är en person som lånar ut sitt paraply ner solen skiner och vill ha tillbaks det när det regnar."', 'citerad': 'Mark Twain'}
+{'citat': '"Om vi inte skäms för att tänka det skall vi inte skämmas för att säga det."', 'citerad': 'Cicero'}
+{'citat': '"Intention är sinnets fötter."', 'citerad': 'Saikontan'}
+{'citat': '"Den största konsten är ingen konst. Den bästa formen är ingen form."', 'citerad': 'Bruce Lee'}
+{'citat': '"Kan man ge löften kan man också bli vald."', 'citerad': 'Otto von Bismarck'}
+{'citat': '"Konst är någonting man inte kan, för när man kan det är det ingen konst."', 'citerad': 'Norskt ordspråk'}
+{'citat': '"Jag begär ingenting, men jag vill ha allt."', 'citerad': 'Ingrid Bergman'}
+{'citat': '"Det spelar ingen roll hur långsamt du går, så länge du inte stannar."', 'citerad': 'Konfucius'}
+{'citat': '"Teknik är vad man faller tillbaka på när inspirationen är slut."', 'citerad': 'Rudolf Nureyev'}
+{'citat': '"Det bästa sättet att spara tid är att använda den."', 'citerad': 'Carl Hammarén'}
+{'citat': '"En människa borde aldrig skämmas över att erkänna att hon haft fel. Det är ju bara att med andra ord säga att man är klokare idag än igår."', 'citerad': 'Jonathan Swift'}
+{'citat': '"Älska din fiende, det kommer att göra honom vansinnig."', 'citerad': 'Kenji Ota'}
+{'citat': '"Födda till original, hur kommer det sig att vi dör som kopior?"', 'citerad': 'Edward Young'}
+{'citat': '"Tiden är naturens eget sätt att se till så att allt inte händer på en och samma gång"', 'citerad': 'Okänd'}
+{'citat': '"Du saknar aldrig ditt vatten förrän källan sinar."', 'citerad': 'Cherita Rawls'}
+{'citat': '"Då och då snubblar människorna över en sanning, men de flesta reser sig upp och skyndar vidare som om ingenting hade hänt."', 'citerad': 'Winston Churchill'}
+{'citat': '"Det finns bara två sätt att leva vårat liv. Ett är som om inget är ett mirakel. Det andra som om allting är ett mirakel."', 'citerad': 'Albert Einstein'}
+{'citat': '"Ingenting är farligare än en åsikt om den är den enda du har."', 'citerad': 'Emile Chartier'}
+{'citat': '"Vilken idiot som helst kan möta en kris, det är det dagliga livet som tröttar ut en"', 'citerad': 'Anton Tjechov'}
+{'citat': '"Döden är inte sorgsen; det sorgsna är att de flesta människor aldrig riktigt lever."', 'citerad': 'Dan Millman'}
+{'citat': '"Jag har min okunnighet att tacka för det lilla jag vet."', 'citerad': 'Sacha Guitry'}
+{'citat': '"Vad man än vänta så blir det annorlunda."', 'citerad': 'Buddha'}
+{'citat': '"Det tar en kvinna tjugo år att göra en man av sin son, och en annan kvinna tjugo minuter att göra honom till ett fån."', 'citerad': 'Helen Rowland'}
+{'citat': '"Åsikter äro som spikar. Lätta att slå i, svårare att dra ut."', 'citerad': 'Arne Hirdman'}
+{'citat': '"Skogen skulle vara mycket tyst, om inga andra fåglar sjöng än de som sjunger bäst."', 'citerad': 'Henry van Dyke'}
+{'citat': '"Geni är en procent inspiration och nittionio procent transpiration."', 'citerad': 'Thomas Alva Edison'}
+{'citat': '"Den som har fel är lättare att övertyga än den som har till hälften rätt."', 'citerad': 'Ralph Waldo Emerson'}
+{'citat': '"Läror skall inte bara respekteras utan också prövas."', 'citerad': 'Buddha'}
+{'citat': '"Vi föds gråtande, lever klagande och dör besvikna."', 'citerad': 'Thomas Fuller'}
+{'citat': '"Alla stora sanningar börjar som hädelser."', 'citerad': 'George Bernard Shaw'}
+{'citat': '"Det finns ingen kunskap som är utan värde."', 'citerad': 'Edmund Burke'}
+{'citat': '"Felet med världen är att de dumma är så tvärsäkra på allting, och de kloka så fulla av tvivel."', 'citerad': 'Bertrand Russel'}
+{'citat': '"Det är med välstånd som med havsvatten; ju mer vi dricker, desto törstigare blir vi."', 'citerad': 'Artur Schopenhauer'}
+{'citat': '"En människas hjärta är som ett risfält: det kan vara rikt på liv och ändå lida av vanvård."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Människan är det hon tror."', 'citerad': 'Anton Tjechov'}
+{'citat': '"Riv aldrig ner ett staket utan att du vet varför det sattes upp."', 'citerad': 'Robert Frost'}
+{'citat': '"Även kelna katter har skarpa klor."', 'citerad': 'Ordspråksboken'}
+{'citat': '"Säg inte att det ej finns räddning. Att du är slut av sorg: Ju mörkare natt desto klarare stjärnor."', 'citerad': 'A. N. Majkov'}
+{'citat': '"Rädsla urholkar själen."', 'citerad': 'Rainer Werner Fassbinder'}
+{'citat': '"Den vise bygger inget hopp om framtiden och ångrar ingenting i det förflutna."', 'citerad': 'Buddha'}
+{'citat': '"Lär sig något gör man bara då och då, men glömmer gör man hela dagen."', 'citerad': 'Artur Schopenhauer'}
+{'citat': '"Det är nederlaget som gör människor bittra och elaka."', 'citerad': 'William Somerset Maugham'}
+{'citat': '"Det är bättre att fråga och verka okunnig än att inte fråga och förbli det."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Livets stora syfte är inte kunskap utan handling."', 'citerad': 'Thomas Henry Huxley'}
+{'citat': '"Att skriva brev till sin käresta är som att rita en skinksmörgås när man är hungrig"', 'citerad': 'Carl-Gustaf Lindstedt'}
+{'citat': '"Var uppmärksam på dina tankar de kan bli sanna."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Allt vad du är, var fullt och helt och icke styckevis och delt."', 'citerad': 'Henrik Ibsen'}
+{'citat': '"Kärleken är ynglingens konung och gubbens tyrann"', 'citerad': 'Lucretius'}
+{'citat': '"Vill du inte att någon skall veta det så gör det inte."', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Lyckan kan liknas vid en marknad där priserna allt som oftast sjunker, om man bara har tid att vänta."', 'citerad': 'Francis Bacon'}
+{'citat': '"Absolut sanning är som en hägring; den tenderar att försvinna när du närmar dig den... Trots att jag hängivet kan komma att söka vissa svar, kommer vissa att kvarstå, likt hägringen, bortom min räckvidd."', 'citerad': 'Richard Leakey och Roger Lewin'}
+{'citat': '"Övervinn vrede med kärlek, illvilja med god vilja; övervinn snålhet med frikostighet, lögnaren med sanning."', 'citerad': 'Buddha'}
+{'citat': '"Desto mindre du pratar, desto mer får du höra."', 'citerad': 'Alexander Solsjenitsyn'}
+{'citat': '"I de blindas rike är den enögde kung."', 'citerad': 'N. Machiavelli'}
+{'citat': '"Livet är det enda drama som saknar generalrepetition."', 'citerad': 'Thords passbitar'}
+{'citat': '"Varför ljuga när det finns så många sätt att säga sanningen på?"', 'citerad': 'Stig Järrel'}
+{'citat': '"Små ting påverkar små hjärnor."', 'citerad': 'Benjamin Disraeli'}
+{'citat': '"En ursäkt för djävulen: Det måste komas ihåg att vi bara har hört den ena sidan i fallet. Gud har skrivit alla böckerna."', 'citerad': 'Samuel Butler'}
+{'citat': '"Dubbelmoral är bra, förlorar man den ena har man den andra kvar"', 'citerad': 'Henrik Tikkanen'}
+{'citat': '"Inte ens änglarna står högre än den man som tog fel väg och sedan återvände."', 'citerad': 'Talmud'}
+{'citat': '"Det är omöjligt att njuta av sysslolösheten om man inte har mycket att göra."', 'citerad': 'Jerome K. Jerome'}
+{'citat': '"Ta inte livet för allvarligt. Du klarar dig ändå inte ifrån det levande"', 'citerad': 'E Hubbard'}
+{'citat': '"Det enda varaktiga är förändring."', 'citerad': 'Buddha'}
+{'citat': '"Varje utgång är en ingång till något annat."', 'citerad': 'Tom Stoppard'}
+{'citat': '"Här finns nog för allas behov, men inte för allas girighet."', 'citerad': 'Mahatma Gandhi'}
+{'citat': '"Ändra miljön; försök inte förändra människan."', 'citerad': 'R. Buckminister Fuller'}
+{'citat': '"Inget skadar en intellektuell människa mer än brist på motstånd."', 'citerad': 'Bernedetto Croce'}
+{'citat': '"En sak, som aldrig sätts på spel, förlorar sitt värde."', 'citerad': 'Sigfrid Siwertz'}
+{'citat': '"Det största av alla misstag är att inte göra något bara för att man endast kan göra lite. Gör vad du kan."', 'citerad': 'Sydney Smith'}
+{'citat': '"Det är för väl att lögnen finns för tänk om allt man hörde skulle vara sant."', 'citerad': 'Albert Engström'}
+{'citat': '"Vandra blott. Vägen vet vart du ska gå."', 'citerad': 'Arne Nyman'}
+{'citat': '"Sjömannen ber inte om medvind. Han lär sig segla."', 'citerad': 'Gustav Lindborg'}
+{'citat': '"Människan formas inte utav omständigheterna. Det är omständigheterna som formas av människan."', 'citerad': 'Benjamin Disraeli'}
+{'citat': '"Äventyr är resultatet av dålig planering."', 'citerad': 'Blatchford Snell'}
+{'citat': '"Jag vill mycket som jag helst skulle vilja att jag inte ville."', 'citerad': 'Hjalmar Söderberg'}
+{'citat': '"Den som är vän av visdomen, är också vän av myten."', 'citerad': 'Aristoteles'}
+{'citat': '"Bättre en tålmodig man än en stark, och bättre den som styr sitt sinne än den som intar en stad."', 'citerad': 'Ordspråksboken, Bibeln'}
+{'citat': '"Okunskap och fåfänga går hand i hand."', 'citerad': 'Talmud'}
+{'citat': '"Do you have what we in Sweden call shiftnyckel."', 'citerad': 'Lennart Bergelin, Björn Borgs coach.'}
+{'citat': '"Månens spegling i flodens vatten rör sig inte, den flyter inte bort. Det är bara vattnet som rinner."', 'citerad': 'Taisen Deshimaru'}
+{'citat': '"När vi vågar vara verkligt tysta kan vi komma mycket nära oss själva och världens innersta väsen."', 'citerad': 'James Carroll'}
+{'citat': '"Bättre att saknar den man älskar än att hata den man lever med."', 'citerad': 'Diab Ali'}
+{'citat': '"Om man kan skilja på ett gott råd och ett dåligt råd, så behöver man inget råd."', 'citerad': 'Ernest Hemingway'}
+{'citat': '"Du kan inte koka en halv höna och låta den andra halvan lägga ägg"', 'citerad': 'Nikita Chrustjov'}
+{'citat': '"Fela varken i stort eller smått, och bli inte fiende i stället för vän."', 'citerad': 'Ecclesiasticus (Syraks bok)'}
+{'citat': '"Dåliga människor hamnar inte i helvetet; de är redan där, det är därför de beter sig så dåligt."', 'citerad': 'Dan Millman'}
+{'citat': '"Det behövs inte mycket för att trösta oss, ty det behövs inte mycket för att plåga oss."', 'citerad': 'Blaise Pascal'}
+{'citat': '"Visst finns det något som heter tur.Hur skall vi annars förklara våra ovänners framgångar?"', 'citerad': 'Jean Cocteau'}
+{'citat': '"Vannsinne går i arv, man får det av sina barn"', 'citerad': 'B Cosby'}
+{'citat': '"Genom att inte ge upp nådde även snigeln Noaks ark."', 'citerad': 'G.K. Chesterton'}
+{'citat': '"Du skall aldrig missunna en rik man, det är bara en fattig man med mycket pengar"', 'citerad': 'Okänd'}
+{'citat': '"En verklighet helt oberoende av själen som upplever den, ser den, eller känner den, är en omöjlighet. En värld så utomliggande som det, även om den existerade, skulle för alltid vara onåbar för oss."', 'citerad': 'Henri Poincaré'}
+{'citat': '"Smicker är inte så förkastligt som människor säger, det väcker ofta lust att motsvara lovorden."', 'citerad': 'Drottning Kristina'}
+{'citat': '"Dårarna avvisar vad de ser, inte vad de tänker; de visa avvisar vad de tänker, inte vad de ser."', 'citerad': 'Huang Po'}
+{'citat': '"Före upplysning, hugg ved och bär vatten. Efter upplysning, hugg ved och bär vatten."', 'citerad': 'Zen mästare'}
+{'citat': '"Du är det bästa jag har, ty intet gör så ont som du."', 'citerad': 'Karin Boye'}
+{'citat': '"När allt går lätt blir man fort dum."', 'citerad': 'Maxim Gorkij'}
+{'citat': '"För stor framgång är ingen fördel."', 'citerad': 'Lao Tzu'}
+{'citat': '"Det finns inte vi och dom, det finns bara vi."', 'citerad': 'Arthur Miller'}
+{'citat': '"Den framgångsrike revolutionären är en statsman, den misslyckade en förbrytare."', 'citerad': 'Erich Fromm'}
+{'citat': '"Vägen till startplatsen är den längsta."', 'citerad': 'Arne Hirdman'}
+{'citat': '"Allt det vi är, är resultatet av vad vi har tänkt."', 'citerad': 'Buddha'}
+{'citat': '"Ge mig allt vad jag saknar och du tar ifrån mig allt vad jag har."', 'citerad': 'Nicken Malmström'}
+{'citat': '"Det är lätt att tala men svårt att handla."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Om du tänker för länge på nästa steg kommer du att tillbringa resten av livet på ett ben. "', 'citerad': 'Okänd'}
+{'citat': '"Medvetandets redskap blir bördor när den miljö som gjorde dem nödvändiga inte längre existerar."', 'citerad': 'Henri Bergson'}
+{'citat': '"Formell utbildning ger dig en inkomst. Egen utbildning ger dig en förmögenhet."', 'citerad': 'Jim Rohn'}
+{'citat': '"Det är ingen konst att vara modig om man inte är rädd."', 'citerad': 'Tove Jansson'}
+{'citat': '"Om man talar sanning behöver man inte anstränga sig efteråt för att komma ihåg vad man sagt."', 'citerad': 'Mark Twain'}
+{'citat': '"Man skall leva livet så att man blir vän med döden."', 'citerad': 'Astrid Lindgren'}
+{'citat': '"En svag människa väntar på tillfället, en vanlig tar emot det, en stor skapar det."', 'citerad': 'Adolf Törneros'}
+{'citat': '"Eftersom Gud ser allt måste han vara långt borta."', 'citerad': 'Loesje'}
+{'citat': '"Att vänja sig vid något är något fruktansvärt."', 'citerad': 'Zen mästare'}
+{'citat': '"Vi anstränger oss mer med att övertyga andra att vi är lyckliga än att försöka tänka så själva."', 'citerad': 'Konfucius'}
+{'citat': '"Kärlek som bygger på skönhet dör snabbt, liksom skönheten."', 'citerad': 'John Donne'}
+{'citat': '"Den som mister huvudet bryr sig inte längre om håret."', 'citerad': 'Nikita Chrustjov'}
+{'citat': '"Världen är en komedi för dem som tänker, en tragedi för dem som känner."', 'citerad': 'Horace Walpole'}
+{'citat': '"Människans enda plikt är att vara lycklig."', 'citerad': 'Albert Camus'}
+{'citat': '"Att släppa taget är nyckeln till frid och lycka."', 'citerad': 'Pra Thepkavi'}
+{'citat': '"Det gäller att ha mod att vara den man är. Och att inte tappa modet för att man är den man är."', 'citerad': 'Salon Gahlin'}
+{'citat': '"Bra gjort är bättre än bra sagt."', 'citerad': 'Benjamin Franklin'}
+{'citat': '"De enda saker vi behåller är de vi ger bort."', 'citerad': 'Louis Gingsberg'}
+{'citat': '"Man känner inte igen de riktigt viktiga ögonblicken i sitt liv - inte förrän det är försent."', 'citerad': 'Agatha Christie'}
+{'citat': '"Hela världen är en rad underverk, men vi är så vana vid dem att vi kallar dem vardag."', 'citerad': 'Hans Christian Andersen'}
+{'citat': '"Erfarenhet är inte vad som händer dig, det är vad du gör med det som händer dig."', 'citerad': 'Aldous Huxley'}
+{'citat': '"Uppfattningen om rätt och orätt ändrar sig allteftersom man får fler synder på sitt samvete."', 'citerad': 'Erik Gamby'}
+{'citat': '"Den sanna metoden till kunskap är experimenterande."', 'citerad': 'William Blake'}
+{'citat': '"Överge inte en gammal vän, en ny är inte detsamma. En ny vän är som nytt vin: först när det mognat dricker du det med välbehag."', 'citerad': 'Ecclesiasticus (Syraks bok)'}
+{'citat': '"Det äkta miraklet är inte att gå på vatten eller i luften, utan att vandra på jorden."', 'citerad': 'Thich Nhat Hanh'}
+{'citat': '"Det sällsyntaste av allt är föreningen mellan förnuft och känsla."', 'citerad': 'Voltaire'}
+{'citat': '"Jag har sett gårdagen, jag känner morgondagen."', 'citerad': 'Inskription på Tutan Chamons grav'}
+{'citat': '"Människan har en benägenhet att använda förstoringsglas för att se andras fel, i stället för att använda en spegel för att se sina egna."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Den mätta dagen, den är en aldrig störst. Den bästa dagen är en dag av törst."', 'citerad': 'Karin Boye'}
+{'citat': '"Det finns många som inte törs ta livet av sig själva av rädsla för vad grannarna skall säga."', 'citerad': 'Cyril Connolly'}
+{'citat': '"Reagera på ett intelligent sätt också på en ointelligent handling."', 'citerad': 'Lao Tzu'}
+{'citat': '"Den som griper till våld visar att hans argument är slut"', 'citerad': 'Kinesiskt ordspråk'}
+{'citat': '"Vad än är ont, gör det inte. Vad än är gott, gör det. Då kommer ovan och nedan att harmonisera, De goda och onda inte tävla."', 'citerad': 'Gisan, Zen mästare'}
+{'citat': '"En kompromiss är konsten att dela en kaka så att alla tror de har fått den största biten."', 'citerad': 'Winston Churchill'}
+{'citat': '"Gårdagens radikala idéer är dagens sunda förnuft."', 'citerad': 'Abbie Hoffman'}
+{'citat': '"Om dåren var uthållig i sin dårskap skulle han bli vis."', 'citerad': 'William Blake'}
+{'citat': '"Män har inget tålamod. Därför har de också uppfunnit blixtlåset."', 'citerad': 'Senta Berger'}
+{'citat': '"För visionerna hos en man lånar inte sina vingar till en annan man."', 'citerad': 'Kahlil Gibran'}
+{'citat': '"Nu ska lössen undra vart jag tagit vägen, sa gardisten och vände på skjortan."', 'citerad': 'Svenskt ordstäv'}
+{'citat': '"Att leva utan att tänka har inget värde. Att tänka utan att leva är farligt."', 'citerad': 'Konfucius'}
+{'citat': '"Före vänskap kommer bedömning; efter vänskap kommer förtroende."', 'citerad': 'Lucius Annaeus Seneca'}
+{'citat': '"Du måste behandla inget som om det vore något. Göra något av inget."', 'citerad': 'Andy Warhol'}
+{'citat': '"Den som kan lida inom sig själv det högsta förenat med det lägsta är helad, helig, hel."', 'citerad': 'Carl Gustav Jung'}
+{'citat': '"Alla krig bygger på illusioner."', 'citerad': 'Sun Tzu'}
+{'citat': '"Att studera självet är att glömma självet. Att glömma självet är att förstå allt."', 'citerad': 'Zen mästare'}
+{'citat': '"Fantasi är viktigare än kunskap."', 'citerad': 'Albert Einstein'}
+{'citat': '"Den som vill lära sig befalla måste först ha lärt sig lyda"', 'citerad': 'Solon'}
