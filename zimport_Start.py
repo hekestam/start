@@ -6,13 +6,13 @@ import Import_tvdata6 as TVData
 from html import escape
 
 def importera_mall():
-    filnamn = 'startmall.htm'
+    filnamn = 'docs/startmall.htm'
     with open(filnamn,encoding='utf8') as fil:
         content = fil.read()
     return content
 
 def exportera(content):
-    filnamn = 'start.htm'
+    filnamn = 'docs/start.htm'
 
     with open(filnamn,'w',encoding='utf8') as fil:
         fil.write(content)
