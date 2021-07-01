@@ -1,0 +1,353 @@
+﻿div.namnruta {
+    		display: none;
+	    	border:2px solid #333333;
+		width:235px;
+		margin-left:10px;
+		background-color: #FFFFDA;
+		font-family:"Verdana";
+		font-size:10px;
+		position: absolute;
+		top:55px;
+		left:725px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		z-index: 999;
+		text-align:left;
+		}
+
+a.namnruta {
+		text-decoration:none;
+		color: #0000AA;
+		font-family:"Verdana";
+		}
+
+a.namnruta:hover + div.namnruta {
+		display: none;
+		}
+
+body {
+		text-decoration:none;
+		margin: 0px;
+		}
+
+div.module-body2 {
+		background-color:#FFFFFF
+    		border-left: 1px solid #D0D0D0;
+    		border-right: 1px solid #D0D0D0;
+    		padding: 0px 2px 0px 2px;
+		}
+
+div.module-content-holder2 {
+    		position: relative;
+    		width: 100%;
+    		background-color: #FFFFFF;
+		}
+table.text12 {
+    		font: 12px verdana;
+		}
+
+div.module-strip {
+    		position: relative;
+    		height: 20px;
+		}
+
+div.text1 {
+    		font-size: 10px;
+		font-family:"verdana;";
+		}
+
+table.text1 {
+    		font: 10px verdana;
+		}
+
+span.clock-strip {
+    		font: 10px verdana;
+    		font-weight: bold;
+    		color: #000000;
+		}
+
+div.dropdown {
+    		position: relative;
+    		cursor: pointer;
+		}
+
+div.dropdown-list {
+    		position: absolute;
+    		display: none;
+    		top: 18px;
+    		border: 1px solid #888888;
+    		background-color: #888888;
+		}
+table.dropdown-text-menu {
+    		font: 10px verdana;
+    		color: #000000;
+    		font-weight: bold;
+		}
+
+div.module-header-text2 {
+    		position: absolute;
+    		top: 3px;
+    		left: 9px;
+    		font: 11px verdana;
+    		font-weight: bold;
+    		color: #555555;
+		}
+
+div.module-body2 {
+    		background-color: #FFFFFF;
+    		border-left: 1px solid #D0D0D0;
+    		border-right: 1px solid #D0D0D0;
+    		padding: 0px 2px 0px 2px;
+		}
+
+div.module-content-holder2 {
+    		position: relative;
+    		width: 100%;
+    		background-color: #FFFFFF;
+		}
+
+td.module-content2 {
+    		position: relative;
+    		background-color: #FFFFFF;
+		}
+
+table.text10{
+    color: #aaaaaa;
+}
+
+a.mina_lankar{
+		text-decoration:none;
+		color:#0000AA;
+		font: 10px Verdana;
+}
+
+span.weather-winddir {
+    		font-family: verdana, arial;
+    		color: #0000aa;
+    		font-size: 10px;
+    		cursor: default;
+}
+
+span.weather-sun {
+		font-size:10px
+}
+
+span.weather-day {
+		font-weight:bold;
+		font-size:11px;
+}
+
+span.weather-status {
+		font-size:10px;
+}
+
+input.ctm-button {
+
+    		border: 1px;
+    		border-style: solid;
+    		border-color: #888888;
+    		font-family: verdana, Arial;
+    		font-size: 10px;
+    		font-weight: bold;
+    		color: #000000;
+    		background-image: url(bg.gif);
+    		background-position: middle;
+    		background-color: #EDEDED;
+   		height: 19px;
+
+}
+
+input.ctm-button:hover {
+
+    		border-top-color: #000000;
+    		border-right-color: #000000;
+    		border-bottom-color: #000000;
+    		border-left-color: #000000;
+		cursor:pointer;
+
+}
+
+table.dropdown-text {
+		font:10px verdana;
+		color:#000000;
+		font-weight:bold;
+		border:1px;
+		border-style:solid;
+		border-color:#FFFFFF
+}
+
+table.dropdown-text:hover {
+		border-color:#888888;
+}
+
+span.rss-namn {
+		color:#FFFFFF
+}
+
+a.rss-rubrik {
+		color:#0000AA;
+		text-decoration:none;
+		font:10px verdana;
+}
+
+textarea.postit-textarea {
+    		font-family: arial, verdana, helvetica, sans-serif;
+    		font-size: 10px;
+    		color: #000000;
+    		border: 1px solid #D0D0D0;
+   		background: #FFFFFF;
+   		overflow-y: auto;
+
+}
+
+span.tv-title-active {
+		text-decoration:none;
+		font:10px verdana;
+		font-weight: bold;
+		color:#000000;
+}
+		
+span.tv-title {
+		text-decoration:none;
+		font: 10px verdana;
+		color:#000000;
+}
+
+a.tv-title-active {
+		text-decoration:none;
+		font:10px verdana;
+		font-weight: bold;
+		color:#000000;
+}
+
+a.tv-title {
+		text-decoration:none;
+		font: 10px verdana;
+		color:#000000;
+}
+
+div.rss-ruta {
+    		display: none;
+	    	border:2px solid #333333;
+		width:235px;
+		margin-left:10px;
+		background-color: #FFFFDA;
+		font-family:"Verdana";
+		font-size:10px;
+		position: absolute;
+		left:0px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		z-index: 9999;
+		text-align:left;
+		color:#000000;
+		}
+
+a.rss-rubrik:hover + div.rss-ruta {
+		display: none;
+		}
+
+div.winddir-ruta {
+    		display: none;
+	    	border:2px solid #333333;
+		width:235px;
+		margin-left:10px;
+		background-color: #FFFFDA;
+		font-family:"Verdana";
+		font-size:10px;
+		position: absolute;
+		!top:105px;
+		left:0px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		z-index: 999;
+		text-align:left;
+		color:#000000;
+		}
+
+span.weather-winddir:hover + div.winddir-ruta {
+		display:none;
+}
+
+div.weather-temp-ruta {
+    		display: none;
+	    	border:2px solid #333333;
+		width:235px;
+		margin-left:10px;
+		background-color: #FFFFDA;
+		font-family:"Verdana";
+		font-size:10px;
+		position: absolute;
+		top:105px;
+		left:15px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		z-index: 999;
+		text-align:left;
+		color:#000000;
+		}
+
+span.weather-temp:hover + div.weather-temp-ruta {
+		display:none;
+}
+
+div.tv-title-active-ruta {
+    		display: none;
+	    	border:2px solid #333333;
+		width:235px;
+		margin-left:10px;
+		background-color: #FFFFDA;
+		font-family:"Verdana";
+		font-size:10px;
+		position: absolute;
+		top:55px;
+		left:0px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		z-index: 999;
+		text-align:left;
+		color:#000000;
+		}
+
+span.tv-title-active:hover + div.tv-title-active-ruta {
+		display:block;
+}
+
+div.tv-title-ruta {
+    		display: none;
+	    	border:2px solid #333333;
+		width:235px;
+		margin-left:10px;
+		background-color: #FFFFDA;
+		font-family:"Verdana";
+		font-size:10px;
+		position: absolute;
+		top:55px;
+		left:0px;
+		padding-top: 4px;
+		padding-right: 4px;
+		padding-bottom: 4px;
+		padding-left: 4px;
+		z-index: 999;
+		text-align:left;
+		color:#000000;
+		}
+
+span.tv-title:hover + div.tv-title-ruta {
+		display:block;
+}
+
+span.weather-temp {
+		cursor:default;
+		font:14px verdana;
+}
