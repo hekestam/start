@@ -85,13 +85,14 @@ def getRSS():
                 rdict['rubriktitle{i}_{j}'.format(i=i,j=j+1)] = escape(rubrikvalue)
 
                 urlvalue = feed.itemlist[j].link
+                #print(repr(urlvalue))
                 rdict['rubrikurl{i}_{j}'.format(i=i,j=j+1)] = urlvalue
 
                 tidvalue = feed.itemlist[j].time[:5]
                 rdict['rubriktid{i}_{j}'.format(i=i,j=j+1)] = tidvalue
     except:
        print('Rss-Error')
-       raise
+       #raise
 
     return rdict
 
@@ -216,6 +217,7 @@ def getWeather():
 
     except:
         print('Weather-Error')
+        raise
         
     return rdict
 

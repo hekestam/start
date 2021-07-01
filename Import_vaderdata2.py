@@ -131,22 +131,27 @@ def getXML(basurl):
     xml = response.read().decode('utf-8')
     return xml
 
-def sun(lat,lon,start,stop):
+def sun(lat,lon,start,days):
     """Here comes the sun"""
     bas = 'http://api.yr.no/weatherapi/sunrise/1.1/?lat={};lon={};from={};to={}'
-    basurl = bas.format(lat,lon,start,stop)
+    bas = 'https://api.met.no/weatherapi/sunrise/2.0/?lat={}&lon={}&date={}&offset=+01:00&days={}'
+    basurl = bas.format(lat,lon,start,days)
     response = urllib.request.urlopen(basurl)
     xml = response.read().decode('utf-8')
     soup = BeautifulSoup(xml,'html.parser')
     sunlist = []
     add = 1 + time.localtime().tm_isdst
+    #breakpoint()
     #sunlist = [(i['rise'].split('T')[1][:5],i['set'].split('T')[1][:5]) for i in soup.find_all('sun')]
-    for i in soup.find_all('sun'):
-        ri = i['rise'].split('T')[1][:5]
+    for i in soup.find_all('time'):
+        #breakpoint()
+        if not i.sunrise: continue
+        if not i.sunset: continue
+        ri = i.sunrise['time'].split('T')[1].split('+')[0]
         ri = ri.split(':')
         ri = str(int(ri[0])+add).zfill(2) + ':' + ri[1]
 
-        se = i['set'].split('T')[1][:5]
+        se = i.sunset['time'].split('T')[1].split('+')[0]
         se = se.split(':')
         se = str(int(se[0])+add).zfill(2) + ':' + se[1]
         sunlist.append((ri,se))
@@ -173,12 +178,12 @@ def importera(plats='Sverige/Stockholm/Tyresö_Kommun'):
     lat = soup.location.location['latitude']
     lon = soup.location.location['longitude']
     start = akt()
-    stop = akt(2)
+    stop = 5
     plats = soup.location.find('name').text
 
     sunlist = sun(lat,lon,start,stop)
 
-
+    #breakpoint()
     väderlist = [skapa_väder(plats,proglist[i],sunlist[i]) for i in range(len(proglist))]
     return väderlist
 

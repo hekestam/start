@@ -83,9 +83,10 @@ def importera(url):
     itemlist = list()
 
     for i in itemxmllist:
-        print(i)
+        #print(i)
         ititle = i.title.text
-        ilink = unescape(i.link.text)
+        ilink = unescape(i.guid.text)
+        #breakpoint()
         idescription = unescape(rensa_HTML(i.description.text))
         #idate = i.find('dc:date').text[:10]
         #itime = i.find('dc:date').text[11:19]
