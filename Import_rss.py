@@ -3,6 +3,7 @@ import urllib.parse
 from bs4 import BeautifulSoup
 import time
 import html.parser
+from datetime import datetime
 
 class Feed:
     def __init__(self,link,title,description,itemlist):
@@ -71,7 +72,8 @@ def getXML(basurl):
 def importera(url):
     xml = getXML(url)
     soup = BeautifulSoup(xml,'html.parser')
-    unescape = html.parser.HTMLParser().unescape
+    #unescape = html.parser.HTMLParser().unescape
+    unescape = lambda x: x
 
     link = soup.find('link').text
     title = soup.find('title').text
@@ -81,11 +83,16 @@ def importera(url):
     itemlist = list()
 
     for i in itemxmllist:
+        print(i)
         ititle = i.title.text
         ilink = unescape(i.link.text)
         idescription = unescape(rensa_HTML(i.description.text))
-        idate = i.find('dc:date').text[:10]
-        itime = i.find('dc:date').text[11:19]
+        #idate = i.find('dc:date').text[:10]
+        #itime = i.find('dc:date').text[11:19]
+        dt = i.pubdate.text.split(' +')[0]
+        dt = datetime.strptime(dt,'%a, %d %b %Y %H:%M:%S')
+        idate = str(dt)[:10]
+        itime = str(dt)[11:]
         fi = FeedItem(ititle,ilink,idescription,idate,itime)
         itemlist.append(fi)
 

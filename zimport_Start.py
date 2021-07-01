@@ -91,6 +91,7 @@ def getRSS():
                 rdict['rubriktid{i}_{j}'.format(i=i,j=j+1)] = tidvalue
     except:
        print('Rss-Error')
+       raise
 
     return rdict
 
